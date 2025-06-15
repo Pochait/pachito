@@ -708,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 20:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-15 19:48:12 +0000"
@@ -725,6 +731,12 @@
       "phantom": "2025-06-15 20:01:44 +0000"
     },
     "done": false
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-06-15 20:23:51 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
