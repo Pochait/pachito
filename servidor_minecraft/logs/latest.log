@@ -7490,3 +7490,14 @@ java.lang.IndexOutOfBoundsException: Index -2 out of bounds for length 26
 [15Jun2025 21:59:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
 [15Jun2025 21:59:35.869] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
 [15Jun2025 21:59:47.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/67980, l='ServerLevel[world]', x=-1584.83, y=69.00, z=-833.34] died, message: 'Fisherman was slain by Zombie'
+[15Jun2025 22:01:53.156] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[15Jun2025 22:06:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Chompy]
+[15Jun2025 22:07:18.704] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[15Jun2025 22:08:23.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/81159, l='ServerLevel[world]', x=-1227.50, y=72.00, z=-537.50]
+[15Jun2025 22:08:34.424] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-888, y=-3, z=-550}
+[15Jun2025 22:08:34.424] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-888, y=-3, z=-550}
+[15Jun2025 22:08:45.725] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/81368, l='ServerLevel[world]', x=-862.50, y=-3.00, z=-534.50] as it would cause deadlock
+[15Jun2025 22:08:45.726] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/81370, l='ServerLevel[world]', x=-854.50, y=-3.00, z=-534.50] as it would cause deadlock
+[15Jun2025 22:09:38.674] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[15Jun2025 22:09:52.288] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/82063, l='ServerLevel[world]', x=-887.50, y=72.00, z=-207.50]
+[15Jun2025 22:10:04.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/82133, l='ServerLevel[world]', x=-937.50, y=72.00, z=-275.50]

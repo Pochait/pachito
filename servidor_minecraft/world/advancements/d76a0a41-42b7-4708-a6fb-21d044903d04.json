@@ -536,6 +536,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2025-06-15 22:06:42 +0000",
       "withered_abyss": "2025-06-15 19:38:02 +0000",
       "visceral_heap": "2025-06-15 19:36:35 +0000",
       "seasonal_orchard": "2025-06-15 02:35:11 +0000",
@@ -765,11 +766,23 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-06-15 20:30:04 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000"
+    },
+    "done": false
   },
   "minecraft:story/enchant_item": {
     "criteria": {
