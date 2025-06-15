@@ -121,8 +121,11 @@
       "minecraft:windswept_hills": "2025-06-12 02:02:53 +0000",
       "minecraft:beach": "2025-06-05 02:00:57 +0000",
       "minecraft:river": "2025-06-02 02:01:52 +0000",
+      "minecraft:stony_shore": "2025-06-15 02:09:39 +0000",
       "minecraft:dripstone_caves": "2025-06-12 01:41:48 +0000",
+      "minecraft:cold_ocean": "2025-06-15 02:09:43 +0000",
       "minecraft:forest": "2025-06-05 02:06:51 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-15 02:18:16 +0000",
       "minecraft:ocean": "2025-06-05 02:01:18 +0000",
       "minecraft:flower_forest": "2025-06-02 03:07:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 02:05:23 +0000",
@@ -198,6 +201,7 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "excavator": "2025-06-15 03:20:42 +0000",
       "sledge_hammer": "2025-06-02 02:03:20 +0000"
     },
     "done": false
@@ -220,7 +224,8 @@
       "glow_berries": "2025-06-05 03:04:05 +0000",
       "golden_carrot": "2025-06-02 03:24:37 +0000",
       "beetroot": "2025-06-05 01:29:08 +0000",
-      "rabbit_stew": "2025-06-02 03:22:01 +0000"
+      "rabbit_stew": "2025-06-02 03:22:01 +0000",
+      "carrot": "2025-06-15 04:16:29 +0000"
     },
     "done": false
   },
@@ -271,12 +276,14 @@
       "minecraft:pillager": "2025-06-05 01:30:09 +0000",
       "minecraft:skeleton": "2025-06-02 02:59:21 +0000",
       "minecraft:ravager": "2025-06-07 03:43:52 +0000",
+      "minecraft:hoglin": "2025-06-15 02:31:05 +0000",
       "minecraft:vindicator": "2025-06-12 03:00:00 +0000",
       "minecraft:spider": "2025-06-02 02:35:10 +0000",
       "minecraft:creeper": "2025-06-02 03:31:54 +0000",
       "minecraft:evoker": "2025-06-12 03:21:45 +0000",
       "minecraft:witch": "2025-06-02 02:57:41 +0000",
       "minecraft:cave_spider": "2025-06-02 03:33:43 +0000",
+      "minecraft:stray": "2025-06-15 02:39:25 +0000",
       "minecraft:vex": "2025-06-12 03:09:16 +0000",
       "minecraft:zombie": "2025-06-02 02:35:44 +0000",
       "minecraft:drowned": "2025-06-07 02:25:07 +0000",
@@ -318,10 +325,12 @@
       "old_growth_woodland": "2025-06-12 02:20:23 +0000",
       "coniferous_forest": "2025-06-12 02:37:19 +0000",
       "spider_nest": "2025-06-02 05:13:07 +0000",
+      "seasonal_orchard": "2025-06-15 02:35:21 +0000",
       "dune_beach": "2025-06-12 02:34:35 +0000",
       "seasonal_forest": "2025-06-12 02:45:08 +0000",
       "pasture": "2025-06-02 02:37:41 +0000",
       "lavender_field": "2025-06-12 02:41:28 +0000",
+      "fir_clearing": "2025-06-15 02:35:24 +0000",
       "grassland": "2025-06-02 02:44:40 +0000",
       "prairie": "2025-06-02 03:15:33 +0000",
       "rainforest": "2025-06-12 02:21:18 +0000"
@@ -666,15 +675,72 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-06-12 02:39:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-06-12 03:10:16 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:double_trouble": {
+  "nova_structures:root": {
     "criteria": {
-      "double_trouble_0": "2025-06-12 02:39:48 +0000"
+      "nova_structures:adventure/find_tavern": "2025-06-15 02:51:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-06-15 04:47:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-06-15 03:23:01 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-06-15 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "tough_binding": "2025-06-15 03:19:28 +0000",
+      "large_plate": "2025-06-15 03:18:56 +0000",
+      "tough_handle": "2025-06-15 03:18:58 +0000",
+      "ingot": "2025-06-15 03:19:12 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-06-15 03:18:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-06-15 02:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 04:18:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-06-15 03:19:09 +0000"
     },
     "done": true
   },

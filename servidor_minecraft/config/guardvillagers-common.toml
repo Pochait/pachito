@@ -6,7 +6,7 @@
 	"Have Guards raise their shield all the time?" = false
 	#Range: -9999 ~ 9999
 	"How low of a reputation of a player should have to be instantly aggroed upon by guards and golems?" = -100
-	"Allow players to give guards stuff only if they have the hero of the village effect?" = false
+	"Allow players to give guards stuff only if they have the hero of the village effect?" = true
 	"Have guards only follow the player if they have hero of the village?" = true
 	#Range: -500.0 ~ 900.0
 	"Guard speed" = 0.5
@@ -66,6 +66,6 @@
 	"Have it so clerics heal guards and players with hero of the village?" = true
 	"Allow armorers and weaponsmiths repair guard items when down below half durability?" = true
 	#This will make it so villagers will only be converted into guards if the player has hero of the village
-	"Make it so players have to have hero of the village to convert villagers into guards?" = false
+	"Make it so players have to have hero of the village to convert villagers into guards?" = true
 	"Have it so blacksmiths heal golems under 60 health?" = true
 

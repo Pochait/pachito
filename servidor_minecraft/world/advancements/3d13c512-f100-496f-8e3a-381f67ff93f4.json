@@ -125,6 +125,7 @@
       "minecraft:stony_shore": "2025-06-12 02:46:36 +0000",
       "minecraft:cold_ocean": "2025-06-12 02:47:43 +0000",
       "minecraft:forest": "2025-06-02 02:59:36 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-15 02:19:30 +0000",
       "minecraft:ocean": "2025-06-05 02:00:41 +0000",
       "minecraft:flower_forest": "2025-06-02 03:06:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-05 02:04:06 +0000",
@@ -179,6 +180,7 @@
       "cooked_porkchop": "2025-06-07 03:56:58 +0000",
       "cooked_beef": "2025-06-02 02:56:07 +0000",
       "baked_potato": "2025-06-02 03:17:58 +0000",
+      "pumpkin_pie": "2025-06-15 03:45:22 +0000",
       "bread": "2025-06-02 02:03:43 +0000",
       "golden_apple": "2025-06-05 03:52:16 +0000",
       "cookie": "2025-06-07 02:23:54 +0000",
@@ -295,6 +297,7 @@
       "minecraft:wither_skeleton": "2025-06-05 02:24:56 +0000",
       "minecraft:cave_spider": "2025-06-02 04:05:07 +0000",
       "minecraft:enderman": "2025-06-03 01:43:59 +0000",
+      "minecraft:stray": "2025-06-15 02:38:55 +0000",
       "minecraft:vex": "2025-06-12 03:02:21 +0000",
       "minecraft:zombie": "2025-06-02 02:53:26 +0000",
       "minecraft:drowned": "2025-06-07 02:27:26 +0000",
@@ -328,10 +331,12 @@
       "scrubland": "2025-06-02 02:45:54 +0000",
       "highland": "2025-06-12 02:31:19 +0000",
       "coniferous_forest": "2025-06-12 02:37:15 +0000",
+      "seasonal_orchard": "2025-06-15 02:08:56 +0000",
       "dune_beach": "2025-06-12 02:29:55 +0000",
       "seasonal_forest": "2025-06-12 02:44:11 +0000",
       "pasture": "2025-06-02 02:37:14 +0000",
       "lavender_field": "2025-06-12 02:41:59 +0000",
+      "fir_clearing": "2025-06-15 02:08:46 +0000",
       "prairie": "2025-06-02 02:38:20 +0000",
       "grassland": "2025-06-02 02:44:40 +0000"
     },
@@ -608,6 +613,60 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-06-12 03:06:19 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/loot_illager_hideout": "2025-06-15 01:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-15 04:32:10 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-06-15 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-15 02:02:12 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-15 02:02:12 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-06-15 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/loot_illager_hideout": {
+    "criteria": {
+      "loot_illager_hideout_heart_loot": "2025-06-15 01:56:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-15 02:12:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:compact_necromancy": {
+    "criteria": {
+      "compact_necromancy_0": "2025-06-15 04:32:08 +0000"
     },
     "done": true
   },
