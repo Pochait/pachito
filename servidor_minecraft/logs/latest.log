@@ -6869,3 +6869,131 @@ java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 13
 [15Jun2025 20:38:25.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37860, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.15] died: Gearling was slain by ThebrosXD
 [15Jun2025 20:38:25.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37879, l='ServerLevel[world]', x=-516.77, y=38.50, z=81.27] died: Gearling was slain by ThebrosXD
 [15Jun2025 20:38:27.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37922, l='ServerLevel[world]', x=-516.85, y=45.89, z=81.17] died: 1$s has perished from holy damage
+[15Jun2025 20:38:29.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37930, l='ServerLevel[world]', x=-516.91, y=50.00, z=82.24] died: 1$s has perished from holy damage
+[15Jun2025 20:38:34.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37980, l='ServerLevel[world]', x=-516.85, y=49.52, z=81.67] died: 1$s has perished from holy damage
+[15Jun2025 20:38:38.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37990, l='ServerLevel[world]', x=-516.78, y=49.52, z=81.01] died: 1$s has perished from holy damage
+[15Jun2025 20:38:41.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38013, l='ServerLevel[world]', x=-516.85, y=49.00, z=81.87] died: 1$s has perished from holy damage
+[15Jun2025 20:38:51.059] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37966, l='ServerLevel[world]', x=-516.74, y=46.61, z=80.67] died: 1$s has perished from holy damage
+[15Jun2025 20:38:51.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37949, l='ServerLevel[world]', x=-516.74, y=49.52, z=81.11] died: 1$s has perished from holy damage
+[15Jun2025 20:39:00.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38007, l='ServerLevel[world]', x=-516.82, y=49.21, z=81.32] died: 1$s has perished from holy damage
+[15Jun2025 20:39:01.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38038, l='ServerLevel[world]', x=-516.91, y=50.00, z=81.46] died: 1$s has perished from holy damage
+[15Jun2025 20:39:04.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38096, l='ServerLevel[world]', x=-516.76, y=49.91, z=80.96] died: 1$s has perished from holy damage
+[15Jun2025 20:39:07.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38114, l='ServerLevel[world]', x=-517.25, y=50.00, z=81.45] died: 1$s has perished from holy damage
+[15Jun2025 20:39:07.956] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@5bfb21e, suppressing error
+java.lang.IndexOutOfBoundsException: Index -5 out of bounds for length 19
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.set(ArrayList.java:441) ~[?:?]
+	at net.minecraft.core.NonNullList.set(NonNullList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.m_182414_(StorageContainerMenuBase.java:1002) ~[sophisticatedcore-1.20.1-1.2.63.993.jar%23339!/:1.20.1-1.2.63.993]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1551) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$267(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zcg000$modernfix$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 20:39:08.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38109, l='ServerLevel[world]', x=-516.85, y=46.61, z=80.85] died: 1$s has perished from holy damage
+[15Jun2025 20:39:13.657] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38136, l='ServerLevel[world]', x=-516.84, y=50.00, z=81.37] died: 1$s has perished from holy damage
+[15Jun2025 20:39:20.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38158, l='ServerLevel[world]', x=-516.95, y=50.01, z=81.36] died: 1$s has perished from holy damage
+[15Jun2025 20:39:21.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Magic Siphoner]
+[15Jun2025 20:39:30.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38145, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.75] died: Gearling was slain by ThebrosXD
+[15Jun2025 20:39:30.132] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38168, l='ServerLevel[world]', x=-516.84, y=38.50, z=80.98] died: Gearling was slain by ThebrosXD
+[15Jun2025 20:39:31.831] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/38144, l='ServerLevel[world]', x=-516.83, y=39.10, z=81.47] died: Gearling was slain by ThebrosXD
+[15Jun2025 20:39:34.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/38256, l='ServerLevel[world]', x=-516.84, y=39.00, z=80.30] died: Gearling was slain by ThebrosXD
+[15Jun2025 20:39:45.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38197, l='ServerLevel[world]', x=-516.74, y=38.50, z=80.15] died: Gearling was slain by ThebrosXD
+[15Jun2025 20:39:45.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38242, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.48] died: Gearling was slain by ThebrosXD
+[15Jun2025 20:39:45.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38265, l='ServerLevel[world]', x=-516.76, y=38.50, z=80.78] died: Gearling was slain by ThebrosXD
+[15Jun2025 20:40:39.471] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@35394d07, suppressing error
+java.lang.IndexOutOfBoundsException: Index -5 out of bounds for length 19
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.set(ArrayList.java:441) ~[?:?]
+	at net.minecraft.core.NonNullList.set(NonNullList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.m_182414_(StorageContainerMenuBase.java:1002) ~[sophisticatedcore-1.20.1-1.2.63.993.jar%23339!/:1.20.1-1.2.63.993]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1551) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$267(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zcg000$modernfix$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 20:41:06.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38554, l='ServerLevel[world]', x=-516.72, y=47.26, z=80.94] died: Gearling was slain by SrArthuro
+[15Jun2025 20:41:14.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38594, l='ServerLevel[world]', x=-516.91, y=50.01, z=81.53] died: Gearling was slain by SrArthuro
+[15Jun2025 20:41:15.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38624, l='ServerLevel[world]', x=-516.85, y=46.61, z=81.13] died: Gearling was slain by SrArthuro
+[15Jun2025 20:41:21.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38551, l='ServerLevel[world]', x=-516.72, y=45.10, z=80.84] died: Gearling was slain by SrArthuro
+[15Jun2025 20:41:23.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38640, l='ServerLevel[world]', x=-516.87, y=50.00, z=81.64] died: Gearling was slain by SrArthuro
+[15Jun2025 20:41:40.069] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@689ad0af, suppressing error
+java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 13
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.set(ArrayList.java:441) ~[?:?]
+	at net.minecraft.core.NonNullList.set(NonNullList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.m_182414_(StorageContainerMenuBase.java:1002) ~[sophisticatedcore-1.20.1-1.2.63.993.jar%23339!/:1.20.1-1.2.63.993]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1551) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$267(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zcg000$modernfix$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 20:42:06.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38684, l='ServerLevel[world]', x=-516.15, y=38.50, z=81.85] died: 1$s has perished from holy damage
+[15Jun2025 20:42:06.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38798, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.57] died: 1$s has perished from holy damage
+[15Jun2025 20:42:07.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38663, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:42:07.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38689, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:42:07.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38661, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:42:07.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38712, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:42:08.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/38768, l='ServerLevel[world]', x=-516.85, y=39.10, z=81.85] died: 1$s has perished from holy damage
+[15Jun2025 20:42:12.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38808, l='ServerLevel[world]', x=-516.85, y=40.35, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:42:13.927] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38716, l='ServerLevel[world]', x=-516.85, y=38.50, z=81.81] died: 1$s has perished from holy damage
+[15Jun2025 20:42:14.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38803, l='ServerLevel[world]', x=-516.85, y=38.50, z=81.79] died: 1$s has perished from holy damage
+[15Jun2025 20:42:16.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38834, l='ServerLevel[world]', x=-516.85, y=40.57, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:42:18.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38858, l='ServerLevel[world]', x=-516.81, y=38.50, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:42:18.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38801, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.31] died: 1$s has perished from holy damage
+[15Jun2025 20:42:25.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38885, l='ServerLevel[world]', x=-516.17, y=38.50, z=80.65] died: 1$s has perished from holy damage
+[15Jun2025 20:42:26.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38982, l='ServerLevel[world]', x=-516.85, y=39.34, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:42:31.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/39008, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 20:43:51.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/39126, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.42] died: 1$s has perished from holy damage
+[15Jun2025 20:44:02.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/39038, l='ServerLevel[world]', x=-516.84, y=38.50, z=80.15] died: Gearling was slain by Angelichi25
