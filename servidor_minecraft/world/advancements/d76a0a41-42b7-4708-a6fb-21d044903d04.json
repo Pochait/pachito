@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 20:11:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-15 19:39:27 +0000",
