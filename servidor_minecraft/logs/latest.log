@@ -6614,3 +6614,24 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [15Jun2025 19:57:21.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Neighborhood Brawl]
 [15Jun2025 19:57:21.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mario'/17866, l='ServerLevel[world]', x=-500.50, y=90.00, z=89.50] died, message: 'Mario was slain by Angelichi25'
 [15Jun2025 19:57:21.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mario'/17866, l='ServerLevel[world]', x=-500.50, y=90.00, z=89.50] died: Mario was slain by Angelichi25
+[15Jun2025 20:01:53.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Enchanter]
+[15Jun2025 20:03:07.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Junior Summoner]
+[15Jun2025 20:05:19.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD fell from a high place
+[15Jun2025 20:05:19.224] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[15Jun2025 20:06:43.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/23841, l='ServerLevel[world]', x=-516.85, y=39.42, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24175, l='ServerLevel[world]', x=-516.85, y=39.42, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24134, l='ServerLevel[world]', x=-516.85, y=39.42, z=80.61] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24298, l='ServerLevel[world]', x=-516.85, y=39.42, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.447] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24209, l='ServerLevel[world]', x=-516.85, y=39.42, z=80.48] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24263, l='ServerLevel[world]', x=-516.15, y=39.42, z=81.18] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24571, l='ServerLevel[world]', x=-516.85, y=39.42, z=80.79] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24426, l='ServerLevel[world]', x=-516.85, y=39.42, z=81.85] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24586, l='ServerLevel[world]', x=-516.85, y=39.42, z=81.60] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24838, l='ServerLevel[world]', x=-516.15, y=39.42, z=80.90] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24765, l='ServerLevel[world]', x=-516.85, y=39.42, z=80.92] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:43.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24680, l='ServerLevel[world]', x=-516.85, y=39.42, z=81.44] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:44.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/24955, l='ServerLevel[world]', x=-516.85, y=39.24, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:44.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/24956, l='ServerLevel[world]', x=-516.85, y=39.25, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:45.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/24960, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:49.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24952, l='ServerLevel[world]', x=-516.85, y=39.42, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 20:06:59.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/25162, l='ServerLevel[world]', x=-516.85, y=38.50, z=80.15] died: Gearling was slain by SrArthuro
