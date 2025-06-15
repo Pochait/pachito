@@ -6588,3 +6588,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [15Jun2025 19:25:46.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/9069, l='ServerLevel[world]', x=-516.82, y=38.50, z=80.83] died: Gearling was slain by SrArthuro
 [15Jun2025 19:25:59.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/9174, l='ServerLevel[world]', x=-516.85, y=40.80, z=81.85] died: Gearling was slain by SrArthuro
 [15Jun2025 19:26:00.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/9006, l='ServerLevel[world]', x=-516.85, y=40.50, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 19:35:42.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [We Need to Go Deeper]
+[15Jun2025 19:35:45.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6381ms or 127 ticks behind
+[15Jun2025 19:35:47.532] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jun2025 19:35:47.534] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jun2025 19:35:49.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [We Need to Go Deeper]
+[15Jun2025 19:36:03.287] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11406, l='ServerLevel[world]', x=95.00, y=31.00, z=-23.00] as it would cause deadlock
+[15Jun2025 19:36:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [The Soul Forge]
+[15Jun2025 19:36:34.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [We Need to Go Deeper]

@@ -687,27 +687,21 @@
     },
     "done": true
   },
-  "nova_structures:root": {
+  "dungeons_arise:find_typhon": {
     "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-06-15 02:51:01 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-06-15 04:47:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/modified": {
-    "criteria": {
-      "crafted_tool": "2025-06-15 03:23:01 +0000"
+      "location0": "2025-06-15 02:33:55 +0000"
     },
     "done": true
   },
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_oak": "2025-06-15 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-06-15 02:51:01 +0000"
     },
     "done": true
   },
@@ -726,9 +720,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_typhon": {
+  "tconstruct:tools/make_part": {
     "criteria": {
-      "location0": "2025-06-15 02:33:55 +0000"
+      "crafted_part": "2025-06-15 03:19:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-06-15 03:23:01 +0000"
     },
     "done": true
   },
@@ -738,9 +738,9 @@
     },
     "done": true
   },
-  "tconstruct:tools/make_part": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "crafted_part": "2025-06-15 03:19:09 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-06-15 04:47:34 +0000"
     },
     "done": true
   },
