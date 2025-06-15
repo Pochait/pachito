@@ -758,6 +758,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-15 21:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-15 19:37:49 +0000",
@@ -786,6 +792,12 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-06-15 20:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-15 21:30:26 +0000"
     },
     "done": true
   },
