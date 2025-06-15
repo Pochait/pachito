@@ -622,15 +622,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "nova_structures:adventure/loot_illager_hideout": {
     "criteria": {
-      "tamed_animal": "2025-06-15 04:32:10 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2025-06-15 02:51:00 +0000"
+      "loot_illager_hideout_heart_loot": "2025-06-15 01:56:48 +0000"
     },
     "done": true
   },
@@ -646,27 +640,33 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-06-15 02:29:14 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/loot_illager_hideout": {
-    "criteria": {
-      "loot_illager_hideout_heart_loot": "2025-06-15 01:56:48 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-06-15 02:12:23 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-06-15 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-06-15 02:51:00 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:compact_necromancy": {
     "criteria": {
       "compact_necromancy_0": "2025-06-15 04:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-15 04:32:10 +0000"
     },
     "done": true
   },
