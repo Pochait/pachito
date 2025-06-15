@@ -215,6 +215,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-12 02:58:55 +0000",
+      "cooked_mutton": "2025-06-15 22:30:28 +0000",
       "cooked_beef": "2025-06-02 02:14:06 +0000",
       "apple": "2025-06-02 03:43:48 +0000",
       "pumpkin_pie": "2025-06-05 03:00:58 +0000",
@@ -841,6 +842,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-06-15 21:14:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 22:29:38 +0000"
     },
     "done": true
   },
