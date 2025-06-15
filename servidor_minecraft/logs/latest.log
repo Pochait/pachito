@@ -6596,3 +6596,13 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [15Jun2025 19:36:03.287] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11406, l='ServerLevel[world]', x=95.00, y=31.00, z=-23.00] as it would cause deadlock
 [15Jun2025 19:36:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [The Soul Forge]
 [15Jun2025 19:36:34.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [We Need to Go Deeper]
+[15Jun2025 19:37:19.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Who is Cutting Onions?]
+[15Jun2025 19:37:41.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [The Soul Forge]
+[15Jun2025 19:37:52.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Nightmare Fuel]
+[15Jun2025 19:38:01.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[15Jun2025 19:41:00.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [The Soul Forge]
+[15Jun2025 19:41:05.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[15Jun2025 19:41:16.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[15Jun2025 19:41:37.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has completed the challenge [The broken Nether's warmachine]
+[15Jun2025 19:41:49.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Angelichi25
+[15Jun2025 19:41:49.660] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved

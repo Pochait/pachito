@@ -270,9 +270,11 @@
       "minecraft:creeper": "2025-06-07 03:51:09 +0000",
       "minecraft:evoker": "2025-06-12 02:58:24 +0000",
       "minecraft:witch": "2025-06-12 02:57:43 +0000",
+      "minecraft:wither_skeleton": "2025-06-15 19:38:36 +0000",
       "minecraft:cave_spider": "2025-06-15 02:44:24 +0000",
       "minecraft:vex": "2025-06-12 02:58:19 +0000",
       "minecraft:zombie": "2025-06-05 01:49:25 +0000",
+      "quark:foxhound": "2025-06-15 19:40:46 +0000",
       "minecraft:drowned": "2025-06-15 02:14:59 +0000",
       "minecraft:zombie_villager": "2025-06-07 04:44:50 +0000"
     },
@@ -533,6 +535,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "withered_abyss": "2025-06-15 19:38:02 +0000",
+      "visceral_heap": "2025-06-15 19:36:35 +0000",
       "seasonal_orchard": "2025-06-15 02:35:11 +0000",
       "seasonal_forest": "2025-06-15 02:13:43 +0000",
       "lavender_field": "2025-06-12 02:54:19 +0000",
@@ -694,6 +698,37 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-06-15 18:50:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-15 19:37:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-15 19:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-15 19:39:27 +0000",
+      "minecraft:warped_forest": "2025-06-15 19:36:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 19:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 19:36:34 +0000"
     },
     "done": true
   },

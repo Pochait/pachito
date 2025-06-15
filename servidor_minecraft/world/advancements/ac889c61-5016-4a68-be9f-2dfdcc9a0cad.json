@@ -323,8 +323,10 @@
       "scrubland": "2025-06-02 02:45:55 +0000",
       "highland": "2025-06-02 02:44:03 +0000",
       "old_growth_woodland": "2025-06-12 02:20:23 +0000",
+      "withered_abyss": "2025-06-15 19:37:53 +0000",
       "coniferous_forest": "2025-06-12 02:37:19 +0000",
       "spider_nest": "2025-06-02 05:13:07 +0000",
+      "visceral_heap": "2025-06-15 19:35:46 +0000",
       "seasonal_orchard": "2025-06-15 02:35:21 +0000",
       "dune_beach": "2025-06-12 02:34:35 +0000",
       "seasonal_forest": "2025-06-12 02:45:08 +0000",
@@ -741,6 +743,31 @@
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-06-15 04:47:34 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-15 19:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-15 19:37:49 +0000",
+      "minecraft:warped_forest": "2025-06-15 19:36:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 19:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 19:35:42 +0000"
     },
     "done": true
   },
