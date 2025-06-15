@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-06-15 23:12:09 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-06-15 19:41:00 +0000"

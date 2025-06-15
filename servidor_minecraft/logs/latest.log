@@ -7783,3 +7783,789 @@ java.lang.IndexOutOfBoundsException: Index -2 out of bounds for length 26
 [15Jun2025 23:01:52.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93512, l='ServerLevel[world]', x=-516.15, y=39.00, z=81.73] died: Gearling was slain by SrArthuro
 [15Jun2025 23:01:55.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93548, l='ServerLevel[world]', x=-516.85, y=40.69, z=81.78] died: Gearling was slain by SrArthuro
 [15Jun2025 23:01:57.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93560, l='ServerLevel[world]', x=-516.85, y=40.81, z=82.02] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:19.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/92949, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.28] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:19.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93838, l='ServerLevel[world]', x=-516.84, y=40.03, z=82.62] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:28.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93862, l='ServerLevel[world]', x=-516.22, y=39.00, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:29.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93960, l='ServerLevel[world]', x=-516.79, y=40.79, z=82.85] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:36.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94005, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.91] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:37.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93888, l='ServerLevel[world]', x=-516.30, y=39.00, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:37.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94021, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.07] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:45.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94129, l='ServerLevel[world]', x=-516.82, y=39.00, z=80.77] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:49.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94157, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:52.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94170, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.38] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:54.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94186, l='ServerLevel[world]', x=-516.85, y=40.51, z=82.05] died: Gearling was slain by SrArthuro
+[15Jun2025 23:02:54.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94206, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.20] died: Gearling was slain by SrArthuro
+[15Jun2025 23:03:10.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94226, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.15] died: Gearling was slain by SrArthuro
+[15Jun2025 23:03:10.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94275, l='ServerLevel[world]', x=-516.85, y=40.72, z=81.93] died: Gearling was slain by SrArthuro
+[15Jun2025 23:03:11.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94288, l='ServerLevel[world]', x=-516.85, y=40.83, z=82.85] died: Gearling was slain by SrArthuro
+[15Jun2025 23:03:11.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94316, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.53] died: Gearling was slain by SrArthuro
+[15Jun2025 23:03:19.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94384, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.50] died: Gearling was slain by SrArthuro
+[15Jun2025 23:05:20.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94435, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.834] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94453, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94445, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.837] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94455, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94469, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94494, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94479, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.29] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94509, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.847] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94511, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.85] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94510, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94520, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94546, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94548, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.06] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94551, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94564, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.51] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94565, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94567, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:20.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94595, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:23.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94549, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.17] died: 1$s has perished from holy damage
+[15Jun2025 23:05:31.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94492, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:05:32.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94421, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.03] died: 1$s has perished from holy damage
+[15Jun2025 23:06:26.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95019, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:06:26.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94580, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.80] died: 1$s has perished from holy damage
+[15Jun2025 23:06:26.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95112, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.27] died: 1$s has perished from holy damage
+[15Jun2025 23:06:26.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95139, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.68] died: 1$s has perished from holy damage
+[15Jun2025 23:06:26.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95144, l='ServerLevel[world]', x=-516.85, y=40.64, z=82.85] died: 1$s has perished from holy damage
+[15Jun2025 23:07:38.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95257, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:07:38.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95303, l='ServerLevel[world]', x=-516.17, y=39.00, z=80.89] died: 1$s has perished from holy damage
+[15Jun2025 23:07:38.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95306, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.54] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95605, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95822, l='ServerLevel[world]', x=-516.15, y=39.00, z=81.78] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.229] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95821, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95846, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95847, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95834, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.85] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.236] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95871, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.17] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95850, l='ServerLevel[world]', x=-516.15, y=39.00, z=82.02] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95877, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95886, l='ServerLevel[world]', x=-516.15, y=39.00, z=81.52] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95887, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95882, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95892, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.12] died: 1$s has perished from holy damage
+[15Jun2025 23:09:48.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95941, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.85] died: 1$s has perished from holy damage
+[15Jun2025 23:09:49.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95994, l='ServerLevel[world]', x=-516.85, y=40.43, z=82.15] died: 1$s has perished from holy damage
+[15Jun2025 23:09:57.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96074, l='ServerLevel[world]', x=-516.85, y=45.10, z=81.72] died: 1$s has perished from holy damage
+[15Jun2025 23:10:24.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96032, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.09] died: 1$s has perished from holy damage
+[15Jun2025 23:10:24.009] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96109, l='ServerLevel[world]', x=-516.15, y=39.00, z=82.85] died: 1$s has perished from holy damage
+[15Jun2025 23:10:24.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96143, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.89] died: 1$s has perished from holy damage
+[15Jun2025 23:10:24.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96148, l='ServerLevel[world]', x=-516.15, y=39.00, z=81.08] died: 1$s has perished from holy damage
+[15Jun2025 23:10:24.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96091, l='ServerLevel[world]', x=-516.15, y=39.00, z=81.49] died: 1$s has perished from holy damage
+[15Jun2025 23:10:25.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96179, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.32] died: 1$s has perished from holy damage
+[15Jun2025 23:10:26.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96188, l='ServerLevel[world]', x=-516.15, y=39.00, z=82.08] died: 1$s has perished from holy damage
+[15Jun2025 23:10:35.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96189, l='ServerLevel[world]', x=-516.45, y=39.91, z=81.23] died: 1$s has perished from holy damage
+[15Jun2025 23:10:35.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96306, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:10:36.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96097, l='ServerLevel[world]', x=-516.85, y=40.10, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:10:37.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96098, l='ServerLevel[world]', x=-516.84, y=39.00, z=80.79] died: 1$s has perished from holy damage
+[15Jun2025 23:10:39.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96264, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.41] died: 1$s has perished from holy damage
+[15Jun2025 23:10:39.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96311, l='ServerLevel[world]', x=-516.55, y=39.00, z=81.60] died: 1$s has perished from holy damage
+[15Jun2025 23:10:42.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96326, l='ServerLevel[world]', x=-516.85, y=39.44, z=80.35] died: 1$s has perished from holy damage
+[15Jun2025 23:10:57.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96372, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.81] died: 1$s has perished from holy damage
+[15Jun2025 23:10:57.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96375, l='ServerLevel[world]', x=-516.15, y=39.00, z=81.15] died: 1$s has perished from holy damage
+[15Jun2025 23:10:58.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96385, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.03] died: 1$s has perished from holy damage
+[15Jun2025 23:11:05.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96346, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:11:13.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96434, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:11:14.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96504, l='ServerLevel[world]', x=-516.26, y=39.00, z=81.04] died: 1$s has perished from holy damage
+[15Jun2025 23:11:16.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96516, l='ServerLevel[world]', x=-516.85, y=40.47, z=81.56] died: 1$s has perished from holy damage
+[15Jun2025 23:11:17.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96528, l='ServerLevel[world]', x=-516.85, y=40.77, z=81.76] died: 1$s has perished from holy damage
+[15Jun2025 23:11:17.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96460, l='ServerLevel[world]', x=-516.37, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:11:23.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96570, l='ServerLevel[world]', x=-516.64, y=38.75, z=80.28] died: 1$s has perished from holy damage
+[15Jun2025 23:11:30.851] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96599, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:11:30.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96603, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.50] died: 1$s has perished from holy damage
+[15Jun2025 23:11:30.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96610, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.30] died: 1$s has perished from holy damage
+[15Jun2025 23:11:33.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96623, l='ServerLevel[world]', x=-516.20, y=39.00, z=80.79] died: 1$s has perished from holy damage
+[15Jun2025 23:11:35.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96544, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.35] died: 1$s has perished from holy damage
+[15Jun2025 23:11:36.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96591, l='ServerLevel[world]', x=-516.83, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:11:40.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96648, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:11:40.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96680, l='ServerLevel[world]', x=-516.18, y=39.00, z=82.38] died: 1$s has perished from holy damage
+[15Jun2025 23:11:44.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96658, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[15Jun2025 23:12:06.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96705, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.11] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[15Jun2025 23:12:06.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96719, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[15Jun2025 23:12:06.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96733, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.10] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[15Jun2025 23:12:06.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96792, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.77] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[15Jun2025 23:12:06.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/96814, l='ServerLevel[world]', x=-516.15, y=39.00, z=81.68] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[15Jun2025 23:12:09.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Heliomancer]
+[15Jun2025 23:12:09.655] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/bobmowzie/mowziesmobs/client/particle/util/AdvancedParticleBase in classloader cpw.mods.modlauncher.TransformingClassLoader@9863ed5 on thread Thread[Server thread,5,SERVER]
+[15Jun2025 23:12:09.655] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 23:12:09.657] [Server thread/FATAL] [cpw.mods.modlauncher.TransformerClassWriter/]: Failed to find class net/minecraft/client/particle/TextureSheetParticle 
+java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:157) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+	Suppressed: java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+		at cpw.mods.cl.ModuleClassLoader.getMaybeTransformedClassBytes(ModuleClassLoader.java:252) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.buildTransformedClassNodeFor(TransformingClassLoader.java:58) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:149) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+		at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+		at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+		at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+		at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+		at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 23:12:09.659] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Cannot find class net/minecraft/client/particle/TextureSheetParticle
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:161) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:157) ~[modlauncher-10.0.9.jar%2355!/:?]
+	... 52 more
+	Suppressed: java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+		at cpw.mods.cl.ModuleClassLoader.getMaybeTransformedClassBytes(ModuleClassLoader.java:252) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.buildTransformedClassNodeFor(TransformingClassLoader.java:58) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:149) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+		at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+		at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+		at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+		at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+		at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 23:12:09.664] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/bobmowzie/mowziesmobs/client/particle/util/AdvancedParticleBase in classloader cpw.mods.modlauncher.TransformingClassLoader@9863ed5 on thread Thread[Server thread,5,SERVER]
+[15Jun2025 23:12:09.665] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 23:12:30.511] [Server thread/FATAL] [cpw.mods.modlauncher.TransformerClassWriter/]: Failed to find class net/minecraft/client/particle/TextureSheetParticle 
+java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:157) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+	Suppressed: java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+		at cpw.mods.cl.ModuleClassLoader.getMaybeTransformedClassBytes(ModuleClassLoader.java:252) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.buildTransformedClassNodeFor(TransformingClassLoader.java:58) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:149) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+		at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+		at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+		at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+		at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+		at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 23:12:30.517] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot find class net/minecraft/client/particle/TextureSheetParticle
+	Index: 4
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class tictim.paraglider.forge.event.ParagliderEventHandler onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@47034ad8 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: class net.mcreator.whatgecko.procedures.GottaprocedureProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.whatgecko.procedures.CarryOnprocedureProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class net.mcreator.whatgecko.init.ItemAnimationFactory animatedItems(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: xaero.common.events.CommonEventsForge@266cc233 handlePlayerTickStart(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: xaero.map.events.CommonEventsForge@19dc712b handlePlayerTickStart(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class com.hollingsworth.arsnouveau.common.potions.GravityEffect entityTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class com.hollingsworth.arsnouveau.common.event.ManaCapEvents playerOnTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class com.hollingsworth.arsnouveau.common.event.ManaCapEvents onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class com.hollingsworth.arsnouveau.common.event.LightEvents onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.borninchaosv.procedures.WarningSoundProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: class twilightforest.TFTickHandler playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.borninchaosv.init.ItemAnimationFactory animatedItems(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: com.corosus.watut.loader.forge.EventHandlerForge@6e8f2bb1 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: com.mrcrayfish.framework.event.ForgeEvents@227b5e3c onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: wayoftime.bloodmagic.util.handler.event.GenericHandler@62ab5c29 playerTickPost(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class daripher.skilltree.skill.bonus.SkillBonusHandler tickSkillBonuses(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class daripher.skilltree.skill.bonus.SkillBonusHandler applyHealthReservationEffect(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: class daripher.skilltree.attribute.event.AttributeEvents applyLifeRegenerationBonus(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		23: ASM: class daripher.skilltree.attribute.event.AttributeEvents applyExperiencePerMinuteBonus(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		24: net.minecraftforge.eventbus.EventBus$$Lambda$1870/0x00007713208758c0@6c3d5b44
+		25: net.minecraftforge.eventbus.EventBus$$Lambda$1870/0x00007713208758c0@b197686
+		26: net.minecraftforge.eventbus.EventBus$$Lambda$1870/0x00007713208758c0@2bf1436f
+		27: net.minecraftforge.eventbus.EventBus$$Lambda$1870/0x00007713208758c0@3c8d815c
+		28: net.minecraftforge.eventbus.EventBus$$Lambda$1870/0x00007713208758c0@3aec1af2
+		29: net.minecraftforge.eventbus.EventBus$$Lambda$1870/0x00007713208758c0@7a01e66f
+		30: net.minecraftforge.eventbus.EventBus$$Lambda$1870/0x00007713208758c0@5b4a287b
+		31: ASM: com.eeeab.eeeabsmobs.sever.handler.HandlerServerEvent@186f9c7f onPlayerTickEvent(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		32: ASM: class nonamecrackers2.witherstormmod.common.event.PlayerWitherStormDataEvents onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		33: net.minecraftforge.eventbus.EventBus$$Lambda$1870/0x00007713208758c0@b9dc52f
+		34: LOWEST
+		35: ASM: class com.hollingsworth.arsnouveau.common.event.EventHandler onGlideTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Cannot find class net/minecraft/client/particle/TextureSheetParticle
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:161)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177)
+	at org.objectweb.asm.tree@9.7.1/org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59)
+	at org.objectweb.asm@9.7.1/org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286)
+	at org.objectweb.asm@9.7.1/org.objectweb.asm.Frame.merge(Frame.java:1311)
+	at org.objectweb.asm@9.7.1/org.objectweb.asm.Frame.merge(Frame.java:1255)
+	at org.objectweb.asm@9.7.1/org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612)
+	at org.objectweb.asm@9.7.1/org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548)
+	at org.objectweb.asm.tree@9.7.1/org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767)
+	at org.objectweb.asm.tree@9.7.1/org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647)
+	at org.objectweb.asm.tree@9.7.1/org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.7.2/com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398)
+	at TRANSFORMER/mowziesmobs@1.7.2/com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325)
+	at TRANSFORMER/mowziesmobs@1.7.2/com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:157)
+	... 47 more
+	Suppressed: java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+		at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.getMaybeTransformedClassBytes(ModuleClassLoader.java:252)
+		at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.buildTransformedClassNodeFor(TransformingClassLoader.java:58)
+		at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:149)
+		... 47 more
+
+[15Jun2025 23:12:30.575] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.207.17.91:40373
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.RuntimeException: Cannot find class net/minecraft/client/particle/TextureSheetParticle
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:161) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	... 9 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:157) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	... 9 more
+	Suppressed: java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+		at cpw.mods.cl.ModuleClassLoader.getMaybeTransformedClassBytes(ModuleClassLoader.java:252) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.buildTransformedClassNodeFor(TransformingClassLoader.java:58) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:149) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:388) ~[asm-tree-9.7.1.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1286) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1311) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1255) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548) ~[asm-9.7.1.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.7.1.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.7.1.jar:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:468) ~[asm-tree-9.7.1.jar:?]
+		at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+		at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+		at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+		at com.bobmowzie.mowziesmobs.server.capability.PlayerCapability$PlayerCapabilityImp.tick(PlayerCapability.java:398) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at com.bobmowzie.mowziesmobs.server.ServerEventHandler.onPlayerTick(ServerEventHandler.java:325) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at com.bobmowzie.mowziesmobs.server.__ServerEventHandler_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[mowziesmobs-1.7.2.jar%23313!/:1.7.2]
+		at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+		at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:945) ~[forge-1.20.1-47.4.0-universal.jar%23370!/:?]
+		at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+		at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jun2025 23:12:30.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -0.4992605297496766,-7.421599998474122,-7.210439819703112
+[15Jun2025 23:12:30.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20944ms or 418 ticks behind
+[15Jun2025 23:12:30.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrArthuro lost connection: Internal server error
+[15Jun2025 23:12:30.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro left the game

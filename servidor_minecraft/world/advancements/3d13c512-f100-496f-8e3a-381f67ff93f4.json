@@ -750,6 +750,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-06-15 23:01:33 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2025-06-15 19:41:37 +0000"
