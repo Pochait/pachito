@@ -539,8 +539,10 @@
       "visceral_heap": "2025-06-15 19:36:35 +0000",
       "seasonal_orchard": "2025-06-15 02:35:11 +0000",
       "seasonal_forest": "2025-06-15 02:13:43 +0000",
+      "pasture": "2025-06-15 20:29:24 +0000",
       "lavender_field": "2025-06-12 02:54:19 +0000",
-      "fir_clearing": "2025-06-15 02:35:14 +0000"
+      "fir_clearing": "2025-06-15 02:35:14 +0000",
+      "prairie": "2025-06-15 20:29:30 +0000"
     },
     "done": false
   },
@@ -750,9 +752,21 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-15 20:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-15 20:01:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 20:36:48 +0000"
     },
     "done": true
   },
