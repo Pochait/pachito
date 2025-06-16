@@ -289,11 +289,13 @@
       "minecraft:skeleton": "2025-06-02 02:34:15 +0000",
       "minecraft:ravager": "2025-06-07 03:35:57 +0000",
       "minecraft:hoglin": "2025-06-12 02:52:25 +0000",
+      "minecraft:guardian": "2025-06-15 23:24:31 +0000",
       "minecraft:vindicator": "2025-06-03 02:33:34 +0000",
       "minecraft:spider": "2025-06-02 02:59:58 +0000",
       "minecraft:creeper": "2025-06-02 02:36:08 +0000",
       "minecraft:evoker": "2025-06-12 03:02:22 +0000",
       "minecraft:phantom": "2025-06-15 20:01:44 +0000",
+      "minecraft:zombified_piglin": "2025-06-16 02:14:10 +0000",
       "minecraft:witch": "2025-06-02 03:34:09 +0000",
       "minecraft:wither_skeleton": "2025-06-05 02:24:56 +0000",
       "minecraft:cave_spider": "2025-06-02 04:05:07 +0000",
@@ -672,57 +674,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-15 19:37:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-15 20:54:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-06-15 19:57:21 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-06-15 19:36:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/stolen_magic": {
-    "criteria": {
-      "coded_trigger": "2025-06-15 20:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:warped_forest": "2025-06-15 19:36:09 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-15 19:35:49 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_forging": {
-    "criteria": {
-      "dark_forging_0": "2025-06-15 22:56:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_dark_marble": {
-    "criteria": {
-      "has_ingredient": "2025-06-15 22:54:44 +0000"
     },
     "done": true
   },
@@ -732,27 +686,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/magic_siphoner": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "coded_trigger": "2025-06-15 20:39:21 +0000"
+      "minecraft:warped_forest": "2025-06-15 19:36:09 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-15 19:36:20 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "enchanted_item": "2025-06-15 20:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-06-15 19:48:12 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2025-06-15 23:01:33 +0000"
+      "crying_obsidian": "2025-06-15 19:37:19 +0000"
     },
     "done": true
   },
@@ -762,15 +710,51 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-15 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 19:57:21 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-06-15 20:01:44 +0000"
     },
     "done": false
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-06-15 20:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 20:22:03 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-06-15 20:23:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 20:36:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 20:39:21 +0000"
     },
     "done": true
   },
@@ -780,15 +764,81 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-15 20:54:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 22:54:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2025-06-15 22:54:44 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:junior_summoner": {
+  "born_in_chaos_v1:dark_forging": {
     "criteria": {
-      "junior_summoner_0": "2025-06-15 20:03:07 +0000"
+      "dark_forging_0": "2025-06-15 22:56:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-06-15 23:01:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-06-15 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-06-16 00:26:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 00:41:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-16 00:44:59 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-06-16 01:03:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-06-16 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-06-16 01:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-16 02:37:12 +0000"
     },
     "done": true
   },

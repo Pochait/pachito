@@ -129,6 +129,7 @@
       "minecraft:ocean": "2025-06-05 02:01:18 +0000",
       "minecraft:flower_forest": "2025-06-02 03:07:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 02:05:23 +0000",
+      "minecraft:meadow": "2025-06-16 00:01:10 +0000",
       "minecraft:plains": "2025-06-02 02:01:56 +0000"
     },
     "done": false
@@ -218,6 +219,7 @@
       "cooked_mutton": "2025-06-15 22:30:28 +0000",
       "cooked_beef": "2025-06-02 02:14:06 +0000",
       "apple": "2025-06-02 03:43:48 +0000",
+      "potato": "2025-06-16 01:24:04 +0000",
       "pumpkin_pie": "2025-06-05 03:00:58 +0000",
       "bread": "2025-06-02 03:34:53 +0000",
       "golden_apple": "2025-06-02 03:46:25 +0000",
@@ -279,10 +281,12 @@
       "minecraft:skeleton": "2025-06-02 02:59:21 +0000",
       "minecraft:ravager": "2025-06-07 03:43:52 +0000",
       "minecraft:hoglin": "2025-06-15 02:31:05 +0000",
+      "minecraft:guardian": "2025-06-16 01:43:24 +0000",
       "minecraft:vindicator": "2025-06-12 03:00:00 +0000",
       "minecraft:spider": "2025-06-02 02:35:10 +0000",
       "minecraft:creeper": "2025-06-02 03:31:54 +0000",
       "minecraft:evoker": "2025-06-12 03:21:45 +0000",
+      "minecraft:phantom": "2025-06-15 23:55:26 +0000",
       "minecraft:witch": "2025-06-02 02:57:41 +0000",
       "minecraft:cave_spider": "2025-06-02 03:33:43 +0000",
       "minecraft:stray": "2025-06-15 02:39:25 +0000",
@@ -748,37 +752,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-06-15 19:51:39 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-06-15 19:37:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/stolen_magic": {
-    "criteria": {
-      "coded_trigger": "2025-06-15 21:58:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-06-15 21:30:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-06-15 19:37:49 +0000",
-      "minecraft:warped_forest": "2025-06-15 19:36:46 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-15 19:35:42 +0000"
@@ -791,27 +764,22 @@
     },
     "done": true
   },
-  "tombstone:adventure/magic_siphoner": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "coded_trigger": "2025-06-15 22:25:19 +0000"
+      "minecraft:nether_wastes": "2025-06-15 19:37:49 +0000",
+      "minecraft:warped_forest": "2025-06-15 19:36:46 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-15 19:37:41 +0000"
     },
     "done": true
   },
-  "betterdungeons:zombie_dungeon": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-06-15 21:14:44 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-06-15 22:06:04 +0000"
+      "killed_by": "2025-06-15 19:51:39 +0000"
     },
     "done": true
   },
@@ -821,21 +789,9 @@
     },
     "done": true
   },
-  "betterdungeons:all_dungeons": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-06-15 21:30:26 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-06-15 21:43:43 +0000"
+      "exorcism_0": "2025-06-15 21:14:44 +0000"
     },
     "done": true
   },
@@ -845,9 +801,81 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-15 21:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-15 21:30:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-06-15 21:43:43 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 21:58:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-06-15 22:06:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 22:25:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/master_siphoner": {
     "criteria": {
       "coded_trigger": "2025-06-15 22:29:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-15 23:55:26 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-06-16 01:03:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 00:41:40 +0000"
     },
     "done": true
   },
