@@ -901,6 +901,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2025-06-19 03:31:11 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-19 02:45:39 +0000"
