@@ -290,6 +290,7 @@
       "minecraft:witch": "2025-06-02 02:57:41 +0000",
       "minecraft:cave_spider": "2025-06-02 03:33:43 +0000",
       "minecraft:stray": "2025-06-15 02:39:25 +0000",
+      "minecraft:enderman": "2025-06-19 01:40:06 +0000",
       "minecraft:vex": "2025-06-12 03:09:16 +0000",
       "minecraft:zombie": "2025-06-02 02:35:44 +0000",
       "minecraft:drowned": "2025-06-07 02:25:07 +0000",
@@ -484,12 +485,6 @@
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
-    "criteria": {
-      "obtain_chaotic_hexahedron": "2025-06-02 04:58:38 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-06-02 05:01:10 +0000"
@@ -577,12 +572,6 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-05 02:02:13 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/root": {
-    "criteria": {
-      "obtain_crafting_table": "2025-06-05 02:02:13 +0000"
     },
     "done": true
   },
@@ -861,21 +850,27 @@
     },
     "done": false
   },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 00:41:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-06-16 02:34:51 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "find_labyrinth": "2025-06-16 01:03:32 +0000"
+      "diamond_knife": "2025-06-19 00:46:01 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_pray": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "coded_trigger": "2025-06-16 00:41:40 +0000"
+      "bred": "2025-06-19 02:24:31 +0000"
     },
     "done": true
   },

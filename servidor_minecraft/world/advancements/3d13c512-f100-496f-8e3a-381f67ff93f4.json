@@ -123,12 +123,14 @@
       "minecraft:dark_forest": "2025-06-05 02:04:42 +0000",
       "minecraft:river": "2025-06-02 02:38:11 +0000",
       "minecraft:stony_shore": "2025-06-12 02:46:36 +0000",
+      "minecraft:dripstone_caves": "2025-06-19 01:32:25 +0000",
       "minecraft:cold_ocean": "2025-06-12 02:47:43 +0000",
       "minecraft:forest": "2025-06-02 02:59:36 +0000",
       "minecraft:deep_cold_ocean": "2025-06-15 02:19:30 +0000",
       "minecraft:ocean": "2025-06-05 02:00:41 +0000",
       "minecraft:flower_forest": "2025-06-02 03:06:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-05 02:04:06 +0000",
+      "minecraft:meadow": "2025-06-19 01:52:55 +0000",
       "minecraft:plains": "2025-06-02 02:35:36 +0000"
     },
     "done": false
@@ -333,6 +335,7 @@
       "rocky_shrubland": "2025-06-02 03:00:41 +0000",
       "scrubland": "2025-06-02 02:45:54 +0000",
       "highland": "2025-06-12 02:31:19 +0000",
+      "clover_patch": "2025-06-19 01:35:17 +0000",
       "coniferous_forest": "2025-06-12 02:37:15 +0000",
       "visceral_heap": "2025-06-15 19:35:51 +0000",
       "seasonal_orchard": "2025-06-15 02:08:56 +0000",
@@ -445,21 +448,9 @@
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
-    "criteria": {
-      "obtain_chaotic_hexahedron": "2025-06-02 04:59:28 +0000"
-    },
-    "done": true
-  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-06-03 01:41:50 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/root": {
-    "criteria": {
-      "obtain_crafting_table": "2025-06-03 02:20:02 +0000"
     },
     "done": true
   },
@@ -545,12 +536,6 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-05 01:33:47 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
-    "criteria": {
-      "loot_simple_dungeon": "2025-06-05 01:58:36 +0000"
     },
     "done": true
   },
@@ -818,12 +803,6 @@
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/find_labyrinth": {
-    "criteria": {
-      "find_labyrinth": "2025-06-16 01:03:37 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2025-06-16 01:22:34 +0000"
@@ -839,6 +818,18 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-06-16 02:37:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-06-19 01:26:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-19 01:31:45 +0000"
     },
     "done": true
   },
