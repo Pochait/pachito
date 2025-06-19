@@ -121,6 +121,7 @@
       "minecraft:birch_forest": "2025-06-02 03:00:18 +0000",
       "minecraft:beach": "2025-06-05 02:00:33 +0000",
       "minecraft:dark_forest": "2025-06-05 02:04:42 +0000",
+      "minecraft:sparse_jungle": "2025-06-19 03:13:40 +0000",
       "minecraft:river": "2025-06-02 02:38:11 +0000",
       "minecraft:lukewarm_ocean": "2025-06-19 02:51:50 +0000",
       "minecraft:stony_shore": "2025-06-12 02:46:36 +0000",
@@ -129,6 +130,7 @@
       "minecraft:forest": "2025-06-02 02:59:36 +0000",
       "minecraft:deep_cold_ocean": "2025-06-15 02:19:30 +0000",
       "minecraft:ocean": "2025-06-05 02:00:41 +0000",
+      "minecraft:jungle": "2025-06-19 03:11:57 +0000",
       "minecraft:flower_forest": "2025-06-02 03:06:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-05 02:04:06 +0000",
       "minecraft:meadow": "2025-06-19 01:52:55 +0000",
@@ -846,6 +848,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-06-19 03:11:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-06-19 03:17:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-19 03:03:48 +0000"
@@ -855,6 +869,12 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-06-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-06-19 03:10:52 +0000"
     },
     "done": true
   },

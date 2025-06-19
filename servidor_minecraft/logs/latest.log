@@ -2267,3 +2267,17 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Jun2025 03:11:53.321] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18492, l='ServerLevel[world]', x=-1453.50, y=77.00, z=-134.50]
 [19Jun2025 03:12:10.423] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18689, l='ServerLevel[world]', x=-1407.50, y=73.00, z=-145.50]
 [19Jun2025 03:12:20.221] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18827, l='ServerLevel[world]', x=-1460.50, y=78.00, z=-123.50]
+[19Jun2025 03:13:19.720] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19248, l='ServerLevel[world]', x=-1429.50, y=78.00, z=-139.50]
+[19Jun2025 03:13:53.421] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19971, l='ServerLevel[world]', x=-1453.50, y=77.00, z=-132.50]
+[19Jun2025 03:14:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[19Jun2025 03:15:09.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -9.921346846781034,-0.26830904365699837,-2.2048169416840437
+[19Jun2025 03:17:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Senior Summoner]
+[19Jun2025 03:18:12.428] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[19Jun2025 03:18:57.219] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Jun2025 03:18:57.219] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[19Jun2025 03:18:57.220] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[19Jun2025 03:18:57.220] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Jun2025 03:18:57.220] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Jun2025 03:20:08.776] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25315, l='ServerLevel[world]', x=-2095.50, y=71.00, z=-353.50]
+[19Jun2025 03:20:11.976] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[19Jun2025 03:22:17.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27442, l='ServerLevel[world]', x=-2094.50, y=71.00, z=-354.50]
