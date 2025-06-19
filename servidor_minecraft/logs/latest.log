@@ -2370,3 +2370,10 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [19Jun2025 03:53:34.712] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=611, y=-24, z=-303}
 [19Jun2025 03:53:34.712] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=613, y=-24, z=-302}
 [19Jun2025 03:53:37.067] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=612, y=-24, z=-296}
+[19Jun2025 03:56:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[19Jun2025 03:56:39.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Horror Under the Mantle]
+[19Jun2025 03:58:23.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Angelichi25> xaero-waypoint:Shared Location:S:-4578:64:-787:10:false:0:Internal-overworld-waypoints
+[19Jun2025 03:58:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Funeral Theft]
+[19Jun2025 04:02:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Junior Summoner]
+[19Jun2025 04:03:13.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Set the time to 1000]
+[19Jun2025 04:03:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Set the time to 13000]

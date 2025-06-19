@@ -299,6 +299,7 @@
       "minecraft:evoker": "2025-06-12 03:21:45 +0000",
       "minecraft:phantom": "2025-06-15 23:55:26 +0000",
       "minecraft:witch": "2025-06-02 02:57:41 +0000",
+      "minecraft:husk": "2025-06-19 03:57:19 +0000",
       "minecraft:cave_spider": "2025-06-02 03:33:43 +0000",
       "minecraft:stray": "2025-06-15 02:39:25 +0000",
       "minecraft:enderman": "2025-06-19 01:40:06 +0000",
@@ -901,6 +902,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-06-19 04:01:21 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-06-19 02:53:22 +0000"
@@ -928,6 +935,12 @@
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-06-19 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-06-19 04:02:06 +0000"
     },
     "done": true
   },
