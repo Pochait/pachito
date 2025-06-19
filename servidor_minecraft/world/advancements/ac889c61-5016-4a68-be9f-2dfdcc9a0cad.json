@@ -121,6 +121,7 @@
       "minecraft:windswept_hills": "2025-06-12 02:02:53 +0000",
       "minecraft:beach": "2025-06-05 02:00:57 +0000",
       "minecraft:river": "2025-06-02 02:01:52 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-19 03:01:53 +0000",
       "minecraft:stony_shore": "2025-06-15 02:09:39 +0000",
       "minecraft:dripstone_caves": "2025-06-12 01:41:48 +0000",
       "minecraft:cold_ocean": "2025-06-15 02:09:43 +0000",
@@ -339,6 +340,8 @@
       "dune_beach": "2025-06-12 02:34:35 +0000",
       "seasonal_forest": "2025-06-12 02:45:08 +0000",
       "pasture": "2025-06-02 02:37:41 +0000",
+      "rocky_rainforest": "2025-06-19 02:58:19 +0000",
+      "volcanic_plains": "2025-06-19 02:51:28 +0000",
       "lavender_field": "2025-06-12 02:41:28 +0000",
       "fir_clearing": "2025-06-15 02:35:24 +0000",
       "grassland": "2025-06-02 02:44:40 +0000",
@@ -875,9 +878,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-06-19 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-06-19 03:06:55 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-06-19 02:53:22 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-19 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-06-19 03:07:10 +0000"
     },
     "done": true
   },
