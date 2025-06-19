@@ -118,6 +118,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-06-05 02:03:13 +0000",
       "minecraft:sunflower_plains": "2025-06-02 02:02:12 +0000",
+      "minecraft:cherry_grove": "2025-06-19 03:44:30 +0000",
       "minecraft:windswept_hills": "2025-06-12 02:02:53 +0000",
       "minecraft:beach": "2025-06-05 02:00:57 +0000",
       "minecraft:sparse_jungle": "2025-06-19 03:13:56 +0000",
@@ -131,6 +132,7 @@
       "minecraft:ocean": "2025-06-05 02:01:18 +0000",
       "minecraft:jungle": "2025-06-19 03:12:02 +0000",
       "minecraft:flower_forest": "2025-06-02 03:07:50 +0000",
+      "minecraft:frozen_peaks": "2025-06-19 03:45:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 02:05:23 +0000",
       "minecraft:meadow": "2025-06-16 00:01:10 +0000",
       "minecraft:savanna": "2025-06-19 03:27:11 +0000",
@@ -141,6 +143,9 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-05 02:06:59 +0000",
+      "entered_hay_storage": "2025-06-19 03:48:01 +0000",
+      "entered_druid_circle": "2025-06-19 03:43:18 +0000",
+      "entered_large_dungeon": "2025-06-19 03:46:08 +0000",
       "entered_tree_house": "2025-06-19 03:12:12 +0000",
       "entered_ruined_building": "2025-06-02 02:02:34 +0000"
     },
@@ -335,6 +340,7 @@
       "rocky_shrubland": "2025-06-05 02:01:49 +0000",
       "scrubland": "2025-06-02 02:45:55 +0000",
       "highland": "2025-06-02 02:44:03 +0000",
+      "jade_cliffs": "2025-06-19 03:45:35 +0000",
       "old_growth_woodland": "2025-06-12 02:20:23 +0000",
       "withered_abyss": "2025-06-15 19:37:53 +0000",
       "orchard": "2025-06-19 02:47:22 +0000",
@@ -904,6 +910,12 @@
   "immersive_armors:recipes/misc/divine": {
     "criteria": {
       "has_item": "2025-06-19 03:31:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-06-19 03:46:08 +0000"
     },
     "done": true
   },
