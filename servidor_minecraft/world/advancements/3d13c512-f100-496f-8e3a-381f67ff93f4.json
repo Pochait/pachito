@@ -116,7 +116,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-20 02:06:46 +0000",
       "minecraft:deep_ocean": "2025-06-05 02:02:24 +0000",
+      "minecraft:frozen_river": "2025-06-20 02:06:40 +0000",
       "minecraft:sunflower_plains": "2025-06-02 02:02:34 +0000",
       "minecraft:birch_forest": "2025-06-02 03:00:18 +0000",
       "minecraft:beach": "2025-06-05 02:00:33 +0000",
@@ -126,6 +128,7 @@
       "minecraft:lukewarm_ocean": "2025-06-19 02:51:50 +0000",
       "minecraft:stony_shore": "2025-06-12 02:46:36 +0000",
       "minecraft:dripstone_caves": "2025-06-19 01:32:25 +0000",
+      "minecraft:snowy_taiga": "2025-06-20 02:04:02 +0000",
       "minecraft:cold_ocean": "2025-06-12 02:47:43 +0000",
       "minecraft:forest": "2025-06-02 02:59:36 +0000",
       "minecraft:deep_cold_ocean": "2025-06-15 02:19:30 +0000",
@@ -343,6 +346,7 @@
       "clover_patch": "2025-06-19 01:35:17 +0000",
       "old_growth_woodland": "2025-06-19 02:51:08 +0000",
       "orchard": "2025-06-19 02:50:20 +0000",
+      "field": "2025-06-20 02:03:47 +0000",
       "coniferous_forest": "2025-06-12 02:37:15 +0000",
       "spider_nest": "2025-06-19 03:37:04 +0000",
       "visceral_heap": "2025-06-15 19:35:51 +0000",
@@ -356,6 +360,7 @@
       "fir_clearing": "2025-06-15 02:08:46 +0000",
       "prairie": "2025-06-02 02:38:20 +0000",
       "grassland": "2025-06-02 02:44:40 +0000",
+      "snowy_coniferous_forest": "2025-06-20 02:03:49 +0000",
       "rainforest": "2025-06-19 02:55:29 +0000"
     },
     "done": false
@@ -419,6 +424,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-12 02:39:33 +0000",
       "entered_druid_circle": "2025-06-02 03:03:10 +0000",
+      "entered_ice_pit": "2025-06-20 02:08:57 +0000",
       "entered_ruined_building": "2025-06-12 02:43:29 +0000"
     },
     "done": false
@@ -931,6 +937,30 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-06-20 01:57:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2025-06-20 02:08:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_ice_pit": "2025-06-20 02:08:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-20 02:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-20 02:05:09 +0000"
     },
     "done": true
   },
