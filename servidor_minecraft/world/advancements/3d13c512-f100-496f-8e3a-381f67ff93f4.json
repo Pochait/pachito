@@ -934,11 +934,41 @@
     },
     "done": true
   },
-  "illageandspillage:kill_freaky": {
+  "ars_nouveau:warp_scroll": {
     "criteria": {
-      "requirement": "2025-06-20 02:38:26 +0000"
+      "has_warp_scroll": "2025-06-20 01:44:57 +0000"
     },
     "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-20 01:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-20 02:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-20 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2025-06-20 02:08:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_ice_pit": "2025-06-20 02:08:57 +0000"
+    },
+    "done": false
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
@@ -957,21 +987,15 @@
     },
     "done": true
   },
-  "mowziesmobs:suns_blessing": {
+  "illageandspillage:kill_freaky": {
     "criteria": {
-      "get_suns_blessing": "2025-06-20 03:03:02 +0000"
+      "requirement": "2025-06-20 02:38:26 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "location0": "2025-06-20 01:57:35 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:chilled_halls": {
-    "criteria": {
-      "entered_ice_pit": "2025-06-20 02:08:57 +0000"
+      "hero_of_the_village": "2025-06-20 02:42:05 +0000"
     },
     "done": true
   },
@@ -981,33 +1005,9 @@
     },
     "done": true
   },
-  "dungeons_enhanced:seven_world_wonders": {
+  "mowziesmobs:suns_blessing": {
     "criteria": {
-      "entered_ice_pit": "2025-06-20 02:08:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-06-20 02:01:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-06-20 02:05:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-06-20 01:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-06-20 02:42:05 +0000"
+      "get_suns_blessing": "2025-06-20 03:03:02 +0000"
     },
     "done": true
   },

@@ -989,6 +989,25 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "ingot": "2025-06-20 03:07:07 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_basin": "2025-06-20 03:08:05 +0000",
+      "seared_faucet": "2025-06-20 03:09:28 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-06-20 03:07:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-06-20 02:42:05 +0000"
