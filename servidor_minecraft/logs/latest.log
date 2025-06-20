@@ -6641,3 +6641,21 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [20Jun2025 03:16:08.642] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [20Jun2025 03:16:08.642] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [20Jun2025 03:16:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has completed the challenge [The Power of the Sun]
+[20Jun2025 03:20:38.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[20Jun2025 03:20:38.189] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[20Jun2025 03:25:01.605] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[20Jun2025 03:25:01.605] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[20Jun2025 03:25:01.605] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[20Jun2025 03:25:02.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Jun2025 03:25:18.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
+[20Jun2025 03:27:32.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=93, z=-12} BlockPos{x=-105, y=94, z=-12}
+[20Jun2025 03:27:32.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=93, z=-12} BlockPos{x=-105, y=94, z=-12}
+[20Jun2025 03:27:32.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=93, z=-12} BlockPos{x=-105, y=94, z=-12}
+[20Jun2025 03:27:32.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=93, z=-12} BlockPos{x=-105, y=94, z=-12}
+[20Jun2025 03:27:32.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=93, z=-12} BlockPos{x=-105, y=94, z=-12}
+[20Jun2025 03:27:32.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=93, z=-12} BlockPos{x=-105, y=94, z=-12}
+[20Jun2025 03:27:32.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=93, z=-12} BlockPos{x=-105, y=94, z=-12}
+[20Jun2025 03:28:12.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=59, z=-3} BlockPos{x=-119, y=61, z=-4}
+[20Jun2025 03:28:40.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=35, z=-35} BlockPos{x=-95, y=34, z=-35}
+[20Jun2025 03:30:20.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to Angelichi25]
+[20Jun2025 03:35:58.450] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79514, l='ServerLevel[world]', x=-106.00, y=31.00, z=-281.00] as it would cause deadlock

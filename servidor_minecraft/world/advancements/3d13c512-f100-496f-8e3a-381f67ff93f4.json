@@ -252,6 +252,7 @@
       "slimewood": "2025-06-02 02:23:57 +0000",
       "copper": "2025-06-05 02:11:19 +0000",
       "skyslime_vine": "2025-06-05 02:11:19 +0000",
+      "slimesteel": "2025-06-20 03:25:54 +0000",
       "iron": "2025-06-02 02:23:57 +0000"
     },
     "done": false
@@ -690,6 +691,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-06-20 03:27:04 +0000",
       "minecraft:warped_forest": "2025-06-15 19:36:09 +0000"
     },
     "done": false
@@ -1008,6 +1010,12 @@
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-06-20 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-06-20 03:25:54 +0000"
     },
     "done": true
   },

@@ -187,6 +187,7 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "manyullyn": "2025-06-19 01:20:00 +0000",
+      "slimesteel": "2025-06-20 03:20:19 +0000",
       "hepatizon": "2025-06-19 01:20:00 +0000",
       "iron": "2025-06-05 01:15:59 +0000"
     },
@@ -282,6 +283,7 @@
       "minecraft:creeper": "2025-06-07 03:51:09 +0000",
       "minecraft:evoker": "2025-06-12 02:58:24 +0000",
       "minecraft:phantom": "2025-06-15 23:26:16 +0000",
+      "minecraft:zombified_piglin": "2025-06-20 03:25:53 +0000",
       "minecraft:witch": "2025-06-12 02:57:43 +0000",
       "minecraft:wither_skeleton": "2025-06-15 19:38:36 +0000",
       "minecraft:husk": "2025-06-19 03:02:16 +0000",
@@ -991,6 +993,9 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "large_plate": "2025-06-20 03:18:24 +0000",
+      "tough_handle": "2025-06-20 03:18:23 +0000",
+      "hammer_head": "2025-06-20 03:18:23 +0000",
       "ingot": "2025-06-20 03:07:07 +0000"
     },
     "done": false
@@ -1001,6 +1006,12 @@
       "seared_faucet": "2025-06-20 03:09:28 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-06-20 03:16:34 +0000"
+    },
+    "done": true
   },
   "tconstruct:smeltery/gold_casting": {
     "criteria": {
@@ -1023,6 +1034,12 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-06-20 02:32:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-06-20 03:18:47 +0000"
     },
     "done": true
   },
