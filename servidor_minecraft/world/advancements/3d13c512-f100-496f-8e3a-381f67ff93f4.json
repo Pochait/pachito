@@ -957,6 +957,12 @@
     },
     "done": true
   },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-06-20 03:03:02 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-06-20 01:57:35 +0000"
@@ -966,6 +972,12 @@
   "dungeons_enhanced:chilled_halls": {
     "criteria": {
       "entered_ice_pit": "2025-06-20 02:08:57 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-06-20 03:02:24 +0000"
     },
     "done": true
   },

@@ -948,6 +948,12 @@
     },
     "done": false
   },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-06-20 02:57:18 +0000"
+    },
+    "done": true
+  },
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:preserver": "2025-06-20 02:35:07 +0000",
@@ -974,6 +980,12 @@
   "tconstruct:world/earth_island": {
     "criteria": {
       "found_island": "2025-06-20 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-06-20 02:52:45 +0000"
     },
     "done": true
   },
