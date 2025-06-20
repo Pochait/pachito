@@ -928,6 +928,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-20 01:57:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-06-20 01:44:57 +0000"
