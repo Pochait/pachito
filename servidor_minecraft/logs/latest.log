@@ -2393,3 +2393,4 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [20Jun2025 02:42:05.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has completed the challenge [Hero of the Village]
 [20Jun2025 02:42:26.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved wrongly!
 [20Jun2025 02:44:21.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 0.15300150325197137,0.0,10.14484461110385
+[20Jun2025 02:52:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Imbued]
