@@ -944,6 +944,18 @@
     },
     "done": true
   },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:igniter": "2025-06-20 02:39:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-20 02:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-20 02:05:51 +0000"
@@ -959,6 +971,18 @@
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-06-20 02:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-20 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-20 02:42:05 +0000"
     },
     "done": true
   },

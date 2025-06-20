@@ -934,6 +934,29 @@
     },
     "done": true
   },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-06-20 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:preserver": "2025-06-20 02:36:15 +0000",
+      "illageandspillage:ragno": "2025-06-20 02:38:26 +0000",
+      "illageandspillage:engineer": "2025-06-20 02:41:16 +0000",
+      "illageandspillage:igniter": "2025-06-20 02:33:42 +0000",
+      "illageandspillage:crocofang": "2025-06-20 02:33:41 +0000",
+      "illageandspillage:freakager": "2025-06-20 02:37:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-20 02:37:22 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-06-20 01:57:35 +0000"
@@ -967,6 +990,12 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-06-20 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-20 02:42:05 +0000"
     },
     "done": true
   },
