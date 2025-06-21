@@ -2221,3 +2221,22 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Jun2025 03:09:17.168] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [21Jun2025 03:10:43.451] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
 [21Jun2025 03:11:26.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to SrArthuro]
+[21Jun2025 03:25:26.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:26.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:26.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:26.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:29.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:29.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:29.782] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:29.784] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:29.784] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:32.517] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:32.517] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:32.517] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:32.517] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:32.517] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:36.168] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:36.168] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:25:36.168] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 03:26:21.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-879, y=87, z=521} BlockPos{x=-879, y=85, z=521}
+[21Jun2025 03:26:21.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-878, y=87, z=521} BlockPos{x=-879, y=85, z=521}
