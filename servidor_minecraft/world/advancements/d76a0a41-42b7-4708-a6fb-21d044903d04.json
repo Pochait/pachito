@@ -1043,5 +1043,17 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-21 01:39:17 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-21 01:39:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

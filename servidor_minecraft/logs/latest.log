@@ -2264,3 +2264,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Jun2025 01:34:04.893] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [21Jun2025 01:34:04.894] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [21Jun2025 01:34:04.894] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[21Jun2025 01:37:41.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[21Jun2025 01:38:10.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2137, l='ServerLevel[world]', x=-501.08, y=90.12, z=93.64] died, message: 'Villager blew up'
+[21Jun2025 01:39:06.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Magic Writing]
+[21Jun2025 01:39:17.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Who is Cutting Onions?]
+[21Jun2025 01:42:41.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11837, l='ServerLevel[world]', x=-516.15, y=39.00, z=82.85] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[21Jun2025 01:42:41.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11844, l='ServerLevel[world]', x=-516.15, y=39.00, z=82.85] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[21Jun2025 01:42:41.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11845, l='ServerLevel[world]', x=-516.15, y=39.00, z=82.53] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[21Jun2025 01:42:41.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11888, l='ServerLevel[world]', x=-516.15, y=39.00, z=80.43] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[21Jun2025 01:42:43.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11876, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: Gearling was blown up by SrArthuro
+[21Jun2025 01:42:43.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11893, l='ServerLevel[world]', x=-516.23, y=47.32, z=81.18] died: Gearling blew up
+[21Jun2025 01:42:44.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11877, l='ServerLevel[world]', x=-522.25, y=55.00, z=85.84] died: Gearling blew up
+[21Jun2025 01:42:44.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11897, l='ServerLevel[world]', x=-516.48, y=49.00, z=84.33] died: Gearling blew up
+[21Jun2025 01:45:04.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11838, l='ServerLevel[world]', x=-493.59, y=65.00, z=90.70] died: Gearling was killed by magic whilst trying to escape SrArthuro
