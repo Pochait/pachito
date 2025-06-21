@@ -1001,5 +1001,11 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

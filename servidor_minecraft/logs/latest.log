@@ -2086,3 +2086,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Jun2025 02:30:20.708] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [21Jun2025 02:30:36.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/1681, l='ServerLevel[world]', x=-516.85, y=39.07, z=81.60] died: 1$s has perished from holy damage
 [21Jun2025 02:32:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [What an excellent day for an exorcism]
+[21Jun2025 02:37:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Corpse Fly
+[21Jun2025 02:37:32.535] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[21Jun2025 02:42:16.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -0.007488230161243337,0.0625,10.19458175213191
+[21Jun2025 02:43:06.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/8659, l='ServerLevel[world]', x=-516.15, y=39.00, z=81.28] died: 1$s has perished from holy damage
+[21Jun2025 02:43:15.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/8746, l='ServerLevel[world]', x=-516.82, y=39.00, z=80.54] died: 1$s has perished from holy damage
+[21Jun2025 02:43:34.451] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/8790, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[21Jun2025 02:45:38.830] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 02:45:50.533] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 02:45:50.564] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 02:45:50.564] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 02:45:50.564] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 02:45:55.375] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[21Jun2025 02:45:55.375] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile

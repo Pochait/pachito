@@ -1055,5 +1055,17 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2025-06-21 02:38:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/exorcism": {
+    "criteria": {
+      "coded_trigger": "2025-06-21 02:32:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
