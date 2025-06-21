@@ -2277,3 +2277,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Jun2025 01:42:44.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11877, l='ServerLevel[world]', x=-522.25, y=55.00, z=85.84] died: Gearling blew up
 [21Jun2025 01:42:44.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11897, l='ServerLevel[world]', x=-516.48, y=49.00, z=84.33] died: Gearling blew up
 [21Jun2025 01:45:04.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/11838, l='ServerLevel[world]', x=-493.59, y=65.00, z=90.70] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[21Jun2025 01:49:13.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13057, l='ServerLevel[world]', x=-516.85, y=39.37, z=81.75] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[21Jun2025 01:49:13.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13058, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.12] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[21Jun2025 01:55:15.551] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[21Jun2025 01:55:15.551] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[21Jun2025 01:55:15.552] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[21Jun2025 01:55:15.552] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 diamond_basic_shield
+[21Jun2025 01:55:15.552] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[21Jun2025 01:55:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Fetch Me Their Souls!]
