@@ -1061,6 +1061,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "silky": "2025-06-21 03:01:34 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/exorcism": {
     "criteria": {
       "coded_trigger": "2025-06-21 02:32:11 +0000"

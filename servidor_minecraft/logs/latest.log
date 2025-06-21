@@ -2199,3 +2199,12 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Jun2025 02:51:24.713] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
 [21Jun2025 02:51:24.713] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
 [21Jun2025 02:53:32.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Angelichi25> xaero-waypoint:estructiure:E:-739:70:1110:0:false:0:Internal-overworld-waypoints
+[21Jun2025 02:58:14.935] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 02:58:14.936] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 02:58:17.982] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 02:58:18.229] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 02:58:18.229] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 02:58:43.877] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 02:58:43.877] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 02:58:46.474] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 03:02:29.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21199, l='ServerLevel[world]', x=292.50, y=73.00, z=1788.50]
