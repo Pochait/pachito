@@ -2208,3 +2208,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Jun2025 02:58:43.877] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [21Jun2025 02:58:46.474] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [21Jun2025 03:02:29.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21199, l='ServerLevel[world]', x=292.50, y=73.00, z=1788.50]
+[21Jun2025 03:07:22.837] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24263, l='ServerLevel[world]', x=644.50, y=70.00, z=1995.50]
+[21Jun2025 03:07:40.739] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24495, l='ServerLevel[world]', x=633.50, y=70.00, z=2000.50]
+[21Jun2025 03:07:41.189] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24503, l='ServerLevel[world]', x=621.50, y=69.00, z=1939.50]
+[21Jun2025 03:07:52.823] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=630, y=-17, z=1660}
+[21Jun2025 03:09:00.216] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[21Jun2025 03:09:17.139] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Jun2025 03:09:17.140] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Jun2025 03:09:17.141] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Jun2025 03:09:17.142] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Jun2025 03:09:17.167] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Jun2025 03:09:17.168] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Jun2025 03:10:43.451] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[21Jun2025 03:11:26.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to SrArthuro]
