@@ -2285,3 +2285,5 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21Jun2025 01:55:15.552] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 diamond_basic_shield
 [21Jun2025 01:55:15.552] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
 [21Jun2025 01:55:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Fetch Me Their Souls!]
+[21Jun2025 01:57:17.439] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15933, l='ServerLevel[world]', x=-394.00, y=31.00, z=-219.00] as it would cause deadlock
+[21Jun2025 01:59:13.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]

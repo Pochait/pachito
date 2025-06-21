@@ -347,6 +347,7 @@
       "highland": "2025-06-12 02:31:19 +0000",
       "clover_patch": "2025-06-19 01:35:17 +0000",
       "old_growth_woodland": "2025-06-19 02:51:08 +0000",
+      "crystalline_chasm": "2025-06-21 01:55:42 +0000",
       "withered_abyss": "2025-06-21 01:27:45 +0000",
       "orchard": "2025-06-19 02:50:20 +0000",
       "field": "2025-06-20 02:03:47 +0000",
@@ -364,6 +365,7 @@
       "prairie": "2025-06-02 02:38:20 +0000",
       "grassland": "2025-06-02 02:44:40 +0000",
       "snowy_coniferous_forest": "2025-06-20 02:03:49 +0000",
+      "undergrowth": "2025-06-21 01:55:41 +0000",
       "rainforest": "2025-06-19 02:55:29 +0000"
     },
     "done": false
@@ -694,6 +696,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-20 03:27:04 +0000",
+      "minecraft:soul_sand_valley": "2025-06-21 01:54:45 +0000",
       "minecraft:warped_forest": "2025-06-15 19:36:09 +0000"
     },
     "done": false
@@ -1030,6 +1033,12 @@
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2025-06-21 01:38:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-06-21 01:55:16 +0000"
     },
     "done": true
   },
