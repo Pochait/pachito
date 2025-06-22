@@ -504,3 +504,4 @@
 [22Jun2025 02:23:14.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/67473, l='ServerLevel[world]', x=-516.85, y=39.04, z=82.74] died: 1$s has perished from holy damage
 [22Jun2025 02:23:22.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/67451, l='ServerLevel[world]', x=-516.15, y=39.01, z=82.15] died: Gearling blew up
 [22Jun2025 02:23:41.504] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/67746, l='ServerLevel[world]', x=-516.85, y=39.02, z=80.23] died: Gearling was shot by Skeleton
+[22Jun2025 02:24:26.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/67461, l='ServerLevel[world]', x=-516.15, y=39.06, z=81.68] died: Gearling was killed by magic whilst trying to escape SrArthuro
