@@ -529,3 +529,6 @@
 [22Jun2025 02:51:14.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/73627, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.85] died: 1$s has perished from holy damage
 [22Jun2025 02:52:56.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/74078, l='ServerLevel[world]', x=-516.85, y=39.88, z=81.44] died: 1$s has perished from holy damage
 [22Jun2025 02:52:58.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/74076, l='ServerLevel[world]', x=-516.85, y=39.21, z=82.85] died: 1$s has perished from holy damage
+[22Jun2025 02:54:23.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/74360, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage
+[22Jun2025 02:57:23.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/75064, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.70] died: 1$s has perished from holy damage
+[22Jun2025 03:01:16.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Tomb Bound]

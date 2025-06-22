@@ -1091,6 +1091,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_recall": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 03:01:16 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-06-22 01:02:58 +0000"
