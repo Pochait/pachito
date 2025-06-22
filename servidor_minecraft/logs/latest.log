@@ -375,3 +375,15 @@
 [22Jun2025 00:56:57.154] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24614, l='ServerLevel[world]', x=-516.85, y=39.25, z=82.85] died: Gearling was killed by magic whilst trying to escape ThebrosXD
 [22Jun2025 01:00:06.981] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-311, y=30, z=1582}
 [22Jun2025 01:01:20.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> tenemos REPA
+[22Jun2025 01:02:58.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Ender Distancing]
+[22Jun2025 01:04:11.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28888, l='ServerLevel[world]', x=-17.50, y=76.00, z=1695.50]
+[22Jun2025 01:06:15.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Jun2025 01:07:31.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30576, l='ServerLevel[world]', x=37.50, y=70.00, z=1674.50]
+[22Jun2025 01:08:34.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31463, l='ServerLevel[world]', x=14.50, y=76.00, z=1684.50]
+[22Jun2025 01:09:09.342] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31998, l='ServerLevel[world]', x=-19.50, y=76.00, z=1694.50]
+[22Jun2025 01:09:21.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Exorcism]
+[22Jun2025 01:09:21.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Arachnophobe's Nightmare]
+[22Jun2025 01:10:05.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32059, l='ServerLevel[world]', x=-516.83, y=39.32, z=81.60] died: 1$s has perished from holy damage
+[22Jun2025 01:10:05.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32066, l='ServerLevel[world]', x=-516.80, y=39.72, z=82.51] died: 1$s has perished from holy damage
+[22Jun2025 01:10:05.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32577, l='ServerLevel[world]', x=-516.84, y=39.71, z=82.16] died: 1$s has perished from holy damage
+[22Jun2025 01:10:06.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32048, l='ServerLevel[world]', x=-516.71, y=39.05, z=82.48] died: 1$s has perished from holy damage
