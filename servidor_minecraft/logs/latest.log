@@ -369,3 +369,9 @@
 [22Jun2025 00:43:28.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16529, l='ServerLevel[world]', x=132.50, y=66.94, z=842.70] died, message: 'Villager was slain by Zombie'
 [22Jun2025 00:44:24.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16957, l='ServerLevel[world]', x=115.48, y=68.00, z=895.10] died, message: 'Villager was slain by Zombie'
 [22Jun2025 00:44:28.015] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16995, l='ServerLevel[world]', x=106.82, y=68.00, z=891.42] died, message: 'Villager was slain by Zombie Villager'
+[22Jun2025 00:52:32.743] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22079, l='ServerLevel[world]', x=298.50, y=76.00, z=1202.50]
+[22Jun2025 00:52:52.598] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=261, y=-39, z=1324}
+[22Jun2025 00:56:05.639] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24085, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.85] died: 1$s has perished from holy damage
+[22Jun2025 00:56:57.154] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24614, l='ServerLevel[world]', x=-516.85, y=39.25, z=82.85] died: Gearling was killed by magic whilst trying to escape ThebrosXD
+[22Jun2025 01:00:06.981] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-311, y=30, z=1582}
+[22Jun2025 01:01:20.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> tenemos REPA
