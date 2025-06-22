@@ -459,3 +459,17 @@
 [22Jun2025 01:52:02.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/57792, l='ServerLevel[world]', x=-516.52, y=39.35, z=81.71] died: Gearling was killed by magic whilst trying to escape SrArthuro
 [22Jun2025 01:52:04.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/58131, l='ServerLevel[world]', x=-516.28, y=39.00, z=81.78] died: Gearling was killed by magic whilst trying to escape SrArthuro
 [22Jun2025 01:52:14.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jun2025 01:54:35.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Let The Magic Happen]
+[22Jun2025 01:55:05.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/59096, l='ServerLevel[world]', x=-516.15, y=39.80, z=82.85] died: Gearling was slain by Gearling
+[22Jun2025 01:56:07.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=85, z=64} BlockPos{x=-65, y=83, z=63}
+[22Jun2025 01:56:21.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=84, z=50} BlockPos{x=-65, y=83, z=51}
+[22Jun2025 01:56:22.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=85, z=48} BlockPos{x=-65, y=83, z=50}
+[22Jun2025 01:56:36.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=86, z=35} BlockPos{x=-65, y=86, z=36}
+[22Jun2025 01:56:36.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=86, z=35} BlockPos{x=-65, y=86, z=36}
+[22Jun2025 01:56:36.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=86, z=35} BlockPos{x=-65, y=86, z=36}
+[22Jun2025 01:56:36.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=86, z=35} BlockPos{x=-65, y=86, z=36}
+[22Jun2025 01:56:36.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=86, z=35} BlockPos{x=-65, y=86, z=36}
+[22Jun2025 01:56:36.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=86, z=35} BlockPos{x=-65, y=86, z=36}
+[22Jun2025 01:59:22.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/61283, l='ServerLevel[world]', x=-516.85, y=39.71, z=82.66] died: 1$s has perished from holy damage
+[22Jun2025 01:59:24.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/59270, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.85] died: 1$s has perished from holy damage
+[22Jun2025 01:59:28.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/59324, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.15] died: 1$s has perished from holy damage

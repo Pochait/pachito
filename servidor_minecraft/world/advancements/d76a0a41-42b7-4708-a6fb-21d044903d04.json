@@ -1121,6 +1121,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 01:54:35 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-06-22 01:26:00 +0000"
