@@ -410,3 +410,24 @@
 [22Jun2025 01:18:27.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Into Fire]
 [22Jun2025 01:20:02.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34267, l='ServerLevel[world]', x=-448.21, y=49.00, z=1170.60] died, message: 'Villager hit the ground too hard whilst trying to escape Restless Spirit'
 [22Jun2025 01:20:05.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34228, l='ServerLevel[world]', x=-446.48, y=50.00, z=1171.80] died, message: 'Villager hit the ground too hard whilst trying to escape Restless Spirit'
+[22Jun2025 01:22:24.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/34180, l='ServerLevel[world]', x=-437.54, y=71.56, z=1169.87] died, message: 'Armorer was slain by Zombie'
+[22Jun2025 01:22:48.236] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:23:53.082] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:23:53.083] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:23:53.084] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:24:16.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:25:43.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[22Jun2025 01:25:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Ice Bucket Challenge]
+[22Jun2025 01:26:00.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Deceived Hopes]
+[22Jun2025 01:28:51.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrArthuro moved too quickly! -3.897010870688632,-10.0,3.883829664355005
+[22Jun2025 01:29:45.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47623, l='ServerLevel[world]', x=-571.50, y=75.00, z=-342.50]
+[22Jun2025 01:29:56.625] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:29:56.625] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:29:56.625] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:29:56.625] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:29:56.625] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:29:56.625] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 01:30:19.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to SrArthuro]
+[22Jun2025 01:30:31.541] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47926, l='ServerLevel[world]', x=-565.50, y=75.00, z=-327.50]
+[22Jun2025 01:31:10.792] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48329, l='ServerLevel[world]', x=-560.50, y=78.00, z=-369.50]
+[22Jun2025 01:31:56.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to SrArthuro]
