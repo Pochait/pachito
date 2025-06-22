@@ -337,3 +337,35 @@
 [22Jun2025 00:40:55.183] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=136, y=-2, z=584}
 [22Jun2025 00:40:55.184] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
 [22Jun2025 00:41:02.825] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=152, y=-50, z=726}
+[22Jun2025 00:41:29.989] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=188, y=37, z=667} but found not block entity block Block{minecraft:water}[level=0] at location
+[22Jun2025 00:41:29.990] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=188, y=37, z=667}
+[22Jun2025 00:41:31.682] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:41:31.682] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:41:37.222] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:41:39.888] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:41:39.888] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:41:39.888] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:41:58.488] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:35.036] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:39.992] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:39.992] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:39.992] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:39.992] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:39.992] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:42.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:42.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:42.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:42.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:42.998] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:42:52.038] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:43:04.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16552, l='ServerLevel[world]', x=190.20, y=67.50, z=847.30] died, message: 'Villager was slain by Decaying Zombie'
+[22Jun2025 00:43:12.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16553, l='ServerLevel[world]', x=189.94, y=67.54, z=847.39] died, message: 'Villager was slain by Decaying Zombie'
+[22Jun2025 00:43:24.588] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:43:24.588] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:43:24.902] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-78, y=36, z=1034}
+[22Jun2025 00:43:24.903] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-78, y=36, z=1033}
+[22Jun2025 00:43:25.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16554, l='ServerLevel[world]', x=165.28, y=67.17, z=844.50] died, message: '1$s has perished from holy damage'
+[22Jun2025 00:43:27.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17235, l='ServerLevel[world]', x=59.34, y=64.00, z=973.68] died, message: 'Villager was slain by Zombie Bruiser'
+[22Jun2025 00:43:28.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16529, l='ServerLevel[world]', x=132.50, y=66.94, z=842.70] died, message: 'Villager was slain by Zombie'
+[22Jun2025 00:44:24.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16957, l='ServerLevel[world]', x=115.48, y=68.00, z=895.10] died, message: 'Villager was slain by Zombie'
+[22Jun2025 00:44:28.015] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16995, l='ServerLevel[world]', x=106.82, y=68.00, z=891.42] died, message: 'Villager was slain by Zombie Villager'
