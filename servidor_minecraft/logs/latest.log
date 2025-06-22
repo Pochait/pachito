@@ -505,3 +505,19 @@
 [22Jun2025 02:23:22.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/67451, l='ServerLevel[world]', x=-516.15, y=39.01, z=82.15] died: Gearling blew up
 [22Jun2025 02:23:41.504] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/67746, l='ServerLevel[world]', x=-516.85, y=39.02, z=80.23] died: Gearling was shot by Skeleton
 [22Jun2025 02:24:26.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/67461, l='ServerLevel[world]', x=-516.15, y=39.06, z=81.68] died: Gearling was killed by magic whilst trying to escape SrArthuro
+[22Jun2025 02:34:08.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Dark Blacksmith]
+[22Jun2025 02:36:02.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Tiny Home]
+[22Jun2025 02:37:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Dark Forging]
+[22Jun2025 02:38:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [My Size!]
+[22Jun2025 02:40:43.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/70197, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.85] died: 1$s has perished from holy damage
+[22Jun2025 02:40:43.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/69200, l='ServerLevel[world]', x=-516.84, y=39.53, z=80.15] died: Gearling walked into fire whilst fighting ThebrosXD
+[22Jun2025 02:43:23.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/72256, l='ServerLevel[world]', x=-517.06, y=49.82, z=83.45] died: Gearling was slain by Angelichi25
+[22Jun2025 02:43:46.066] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/72264, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.00] died: Gearling was slain by Angelichi25
+[22Jun2025 02:43:47.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/72268, l='ServerLevel[world]', x=-516.15, y=39.00, z=82.20] died: Gearling was slain by Angelichi25
+[22Jun2025 02:43:50.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/72266, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.73] died: Gearling was slain by Angelichi25
+[22Jun2025 02:43:50.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/72271, l='ServerLevel[world]', x=-516.85, y=39.00, z=80.82] died: Gearling was slain by Angelichi25
+[22Jun2025 02:43:57.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/72254, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.48] died: Gearling was slain by Angelichi25
+[22Jun2025 02:44:00.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/72267, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.19] died: 1$s has perished from holy damage
+[22Jun2025 02:44:00.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/71844, l='ServerLevel[world]', x=-516.85, y=39.05, z=81.18] died: 1$s has perished from holy damage
+[22Jun2025 02:44:01.530] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/71803, l='ServerLevel[world]', x=-516.84, y=39.01, z=81.22] died: 1$s has perished from holy damage
+[22Jun2025 02:44:01.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/71879, l='ServerLevel[world]', x=-516.85, y=39.04, z=82.48] died: 1$s has perished from holy damage
