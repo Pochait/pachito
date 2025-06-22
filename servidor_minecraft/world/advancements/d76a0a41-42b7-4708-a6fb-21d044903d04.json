@@ -968,6 +968,7 @@
     "criteria": {
       "illageandspillage:preserver": "2025-06-20 02:35:07 +0000",
       "illageandspillage:absorber": "2025-06-20 02:36:44 +0000",
+      "illageandspillage:ragno": "2025-06-22 00:31:54 +0000",
       "illageandspillage:engineer": "2025-06-20 02:34:51 +0000",
       "illageandspillage:twittollager": "2025-06-20 02:35:43 +0000",
       "illageandspillage:igniter": "2025-06-20 02:34:37 +0000",
@@ -1078,6 +1079,18 @@
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-06-21 03:30:17 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-06-22 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_gravity": {
+    "criteria": {
+      "gravity_effect": "2025-06-22 00:32:48 +0000"
     },
     "done": true
   },

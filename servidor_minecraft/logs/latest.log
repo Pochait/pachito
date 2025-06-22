@@ -319,3 +319,21 @@
 [22Jun2025 00:26:50.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Set own game mode to Creative Mode]
 [22Jun2025 00:30:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Killed Freakager]
 [22Jun2025 00:30:56.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Set own game mode to Survival Mode]
+[22Jun2025 00:31:54.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Oops, did I scare you?]
+[22Jun2025 00:32:48.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [You're Grounded]
+[22Jun2025 00:33:17.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/5586, l='ServerLevel[world]', x=-516.43, y=40.21, z=80.41] died: Gearling was squished too much
+[22Jun2025 00:38:21.975] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:38:59.321] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:38:59.323] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:38:59.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:39:27.379] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:39:27.379] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:39:27.379] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:39:27.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:39:31.526] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:39:47.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:40:03.172] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:spawner_carrier
+[22Jun2025 00:40:55.182] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:40:55.183] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=136, y=-2, z=584}
+[22Jun2025 00:40:55.184] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[22Jun2025 00:41:02.825] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=152, y=-50, z=726}
