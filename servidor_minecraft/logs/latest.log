@@ -521,3 +521,11 @@
 [22Jun2025 02:44:00.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/71844, l='ServerLevel[world]', x=-516.85, y=39.05, z=81.18] died: 1$s has perished from holy damage
 [22Jun2025 02:44:01.530] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/71803, l='ServerLevel[world]', x=-516.84, y=39.01, z=81.22] died: 1$s has perished from holy damage
 [22Jun2025 02:44:01.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/71879, l='ServerLevel[world]', x=-516.85, y=39.04, z=82.48] died: 1$s has perished from holy damage
+[22Jun2025 02:44:05.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/72257, l='ServerLevel[world]', x=-516.85, y=39.00, z=81.45] died: Gearling was slain by Angelichi25
+[22Jun2025 02:44:09.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/71802, l='ServerLevel[world]', x=-516.82, y=39.63, z=82.48] died: Gearling was slain by Angelichi25
+[22Jun2025 02:44:13.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/71792, l='ServerLevel[world]', x=-516.85, y=39.31, z=81.48] died: Gearling was slain by Angelichi25
+[22Jun2025 02:44:20.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/72401, l='ServerLevel[world]', x=-516.81, y=39.61, z=80.81] died: 1$s has perished from holy damage
+[22Jun2025 02:48:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has completed the challenge [Unity with Darkness]
+[22Jun2025 02:51:14.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/73627, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.85] died: 1$s has perished from holy damage
+[22Jun2025 02:52:56.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/74078, l='ServerLevel[world]', x=-516.85, y=39.88, z=81.44] died: 1$s has perished from holy damage
+[22Jun2025 02:52:58.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/74076, l='ServerLevel[world]', x=-516.85, y=39.21, z=82.85] died: 1$s has perished from holy damage
