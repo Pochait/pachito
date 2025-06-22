@@ -1127,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-22 03:07:53 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-06-22 01:09:21 +0000"
@@ -1142,6 +1148,12 @@
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-06-22 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2025-06-22 03:04:57 +0000"
     },
     "done": true
   },
