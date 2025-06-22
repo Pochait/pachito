@@ -979,7 +979,11 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
-      "illageandspillage:igniter": "2025-06-20 02:39:04 +0000"
+      "illageandspillage:preserver": "2025-06-22 00:00:31 +0000",
+      "illageandspillage:absorber": "2025-06-22 00:01:32 +0000",
+      "illageandspillage:twittollager": "2025-06-22 00:00:38 +0000",
+      "illageandspillage:igniter": "2025-06-20 02:39:04 +0000",
+      "illageandspillage:crocofang": "2025-06-22 00:00:17 +0000"
     },
     "done": false
   },
