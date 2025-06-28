@@ -4234,3 +4234,7 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [28Jun2025 02:03:35.150] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [28Jun2025 02:03:35.150] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [28Jun2025 02:03:35.150] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[28Jun2025 02:06:47.121] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/17021, l='ServerLevel[world]', x=598.00, y=31.00, z=53.00] as it would cause deadlock
+[28Jun2025 02:06:47.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -2.0807717565072608,3.5,-9.237221693398169
+[28Jun2025 02:08:43.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 0.36238536591554293,-10.596058325307382,-0.30063497160475094
+[28Jun2025 02:13:11.223] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20759, l='ServerLevel[world]', x=394.00, y=31.00, z=311.00] as it would cause deadlock

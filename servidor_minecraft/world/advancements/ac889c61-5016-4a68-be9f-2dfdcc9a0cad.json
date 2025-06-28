@@ -1028,5 +1028,11 @@
     },
     "done": true
   },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "hand_axe": "2025-06-28 02:06:47 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
