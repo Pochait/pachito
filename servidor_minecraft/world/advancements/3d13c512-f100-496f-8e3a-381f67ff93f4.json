@@ -301,6 +301,7 @@
       "minecraft:pillager": "2025-06-02 02:46:09 +0000",
       "minecraft:skeleton": "2025-06-02 02:34:15 +0000",
       "minecraft:ravager": "2025-06-07 03:35:57 +0000",
+      "minecraft:ghast": "2025-06-28 01:51:01 +0000",
       "minecraft:hoglin": "2025-06-12 02:52:25 +0000",
       "minecraft:guardian": "2025-06-15 23:24:31 +0000",
       "minecraft:vindicator": "2025-06-03 02:33:34 +0000",
@@ -1049,15 +1050,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-22 01:18:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-06-22 01:45:08 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2025-06-22 02:25:51 +0000"
     },
     "done": false
   },
-  "tconstruct:world/blood_island": {
+  "born_in_chaos_v1:dark_blacksmith": {
     "criteria": {
-      "found_island": "2025-06-22 01:45:08 +0000"
+      "dark_blacksmith_0": "2025-06-22 02:34:08 +0000"
     },
     "done": true
   },
@@ -1068,27 +1081,15 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "born_in_chaos_v1:my_size": {
     "criteria": {
-      "blaze_rod": "2025-06-22 01:18:27 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_blacksmith": {
-    "criteria": {
-      "dark_blacksmith_0": "2025-06-22 02:34:08 +0000"
+      "my_size_0": "2025-06-22 02:38:34 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:unitywith_darknessachievement": {
     "criteria": {
       "unitywith_darknessachievement_0": "2025-06-22 02:48:05 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:my_size": {
-    "criteria": {
-      "my_size_0": "2025-06-22 02:38:34 +0000"
     },
     "done": true
   },
