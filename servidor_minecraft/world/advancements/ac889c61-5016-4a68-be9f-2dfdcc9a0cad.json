@@ -305,6 +305,7 @@
       "minecraft:witch": "2025-06-02 02:57:41 +0000",
       "minecraft:husk": "2025-06-19 03:57:19 +0000",
       "minecraft:cave_spider": "2025-06-02 03:33:43 +0000",
+      "minecraft:piglin": "2025-06-28 01:55:11 +0000",
       "minecraft:stray": "2025-06-15 02:39:25 +0000",
       "minecraft:enderman": "2025-06-19 01:40:06 +0000",
       "minecraft:vex": "2025-06-12 03:09:16 +0000",
@@ -727,6 +728,9 @@
       "tough_binding": "2025-06-15 03:19:28 +0000",
       "large_plate": "2025-06-15 03:18:56 +0000",
       "tough_handle": "2025-06-15 03:18:58 +0000",
+      "tool_binding": "2025-06-28 01:58:23 +0000",
+      "small_axe_head": "2025-06-28 01:58:43 +0000",
+      "tool_handle": "2025-06-28 01:58:34 +0000",
       "ingot": "2025-06-15 03:19:12 +0000"
     },
     "done": false
@@ -1017,6 +1021,12 @@
       "luck": "2025-06-22 01:42:18 +0000"
     },
     "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-28 02:00:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
