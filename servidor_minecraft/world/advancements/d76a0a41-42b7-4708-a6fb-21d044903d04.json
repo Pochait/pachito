@@ -277,6 +277,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-07 04:24:04 +0000",
+      "minecraft:blaze": "2025-06-28 01:38:05 +0000",
       "minecraft:skeleton": "2025-06-05 02:26:12 +0000",
       "minecraft:ravager": "2025-06-07 03:48:59 +0000",
       "minecraft:guardian": "2025-06-15 23:26:01 +0000",
@@ -1172,6 +1173,24 @@
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-06-22 03:11:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-06-28 01:33:53 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-06-28 01:37:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-28 01:37:28 +0000"
     },
     "done": true
   },
