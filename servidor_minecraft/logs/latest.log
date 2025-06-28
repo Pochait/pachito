@@ -6201,3 +6201,17 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [28Jun2025 02:46:35.040] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42253, l='ServerLevel[world]', x=-693.50, y=70.00, z=-365.50]
 [28Jun2025 02:46:38.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-243, y=61, z=45} BlockPos{x=-242, y=49, z=20}
 [28Jun2025 02:47:05.887] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[28Jun2025 02:47:15.485] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dungeonnowloading:chaos_spawner_projectile
+[28Jun2025 02:47:23.290] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42995, l='ServerLevel[world]', x=-721.50, y=73.00, z=-373.50]
+[28Jun2025 02:47:26.841] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43131, l='ServerLevel[world]', x=-567.50, y=79.00, z=-364.50]
+[28Jun2025 02:47:47.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43449, l='ServerLevel[world]', x=-668.50, y=70.00, z=-380.50]
+[28Jun2025 02:48:03.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Naughty Child]
+[28Jun2025 02:48:07.493] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 02:48:07.493] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[28Jun2025 02:48:07.494] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 02:48:07.494] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 02:48:07.494] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 02:51:58.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=65, z=76} BlockPos{x=-485, y=66, z=74}
+[28Jun2025 02:54:29.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was killed
+[28Jun2025 02:54:29.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Killed SrArthuro]
+[28Jun2025 02:54:29.744] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved

@@ -299,6 +299,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-02 02:46:09 +0000",
+      "minecraft:blaze": "2025-06-28 02:51:08 +0000",
       "minecraft:skeleton": "2025-06-02 02:34:15 +0000",
       "minecraft:ravager": "2025-06-07 03:35:57 +0000",
       "minecraft:ghast": "2025-06-28 01:51:01 +0000",
@@ -1100,6 +1101,18 @@
       "nova_structures:piglin_camp": "2025-06-28 02:39:26 +0000"
     },
     "done": false
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-06-28 02:42:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-28 02:42:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
