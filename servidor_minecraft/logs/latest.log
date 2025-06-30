@@ -366,3 +366,7 @@
 [30Jun2025 00:51:39.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> small
 [30Jun2025 00:54:19.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/36634, l='ServerLevel[world]', x=-516.45, y=40.21, z=80.53] died: Gearling froze to death
 [30Jun2025 00:54:34.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/36728, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.85] died: 1$s has perished from holy damage
+[30Jun2025 01:06:48.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Encyclopedia]
+[30Jun2025 01:11:44.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4383ms or 87 ticks behind
+[30Jun2025 01:13:08.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
+[30Jun2025 01:13:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Magic Mod Mechanic]

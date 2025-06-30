@@ -1066,5 +1066,11 @@
     },
     "done": true
   },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2025-06-30 01:06:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
