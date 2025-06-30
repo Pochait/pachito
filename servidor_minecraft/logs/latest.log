@@ -365,3 +365,4 @@
 [30Jun2025 00:45:34.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
 [30Jun2025 00:51:39.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> small
 [30Jun2025 00:54:19.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/36634, l='ServerLevel[world]', x=-516.45, y=40.21, z=80.53] died: Gearling froze to death
+[30Jun2025 00:54:34.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/36728, l='ServerLevel[world]', x=-516.85, y=39.00, z=82.85] died: 1$s has perished from holy damage
