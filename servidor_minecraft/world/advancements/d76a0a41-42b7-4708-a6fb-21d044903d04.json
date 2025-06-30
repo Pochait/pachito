@@ -1242,7 +1242,8 @@
   },
   "tconstruct:foundry/alloyer": {
     "criteria": {
-      "scorched_fuel_tank": "2025-06-30 00:35:47 +0000"
+      "scorched_fuel_tank": "2025-06-30 00:35:47 +0000",
+      "scorched_faucet": "2025-06-30 00:41:13 +0000"
     },
     "done": false
   },

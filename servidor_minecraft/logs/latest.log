@@ -358,3 +358,10 @@
 [30Jun2025 00:40:34.751] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32040, l='ServerLevel[world]', x=-1220.50, y=77.00, z=101.50]
 [30Jun2025 00:42:18.021] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/32804, l='ServerLevel[world]', x=-694.50, y=64.00, z=265.50] died, message: 'Librarian was shot by Zombie Villager'
 [30Jun2025 00:42:56.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/32802, l='ServerLevel[world]', x=-694.83, y=63.92, z=263.15] died, message: 'Librarian was slain by Zombie Villager'
+[30Jun2025 00:45:03.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Baby Skeleton
+[30Jun2025 00:45:03.191] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[30Jun2025 00:45:24.997] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34651, l='ServerLevel[world]', x=-1210.50, y=76.00, z=123.50]
+[30Jun2025 00:45:26.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/34183, l='ServerLevel[world]', x=-1156.15, y=68.00, z=130.77] died, message: 'Nitwit was slain by Zombie Villager'
+[30Jun2025 00:45:34.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[30Jun2025 00:51:39.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> small
+[30Jun2025 00:54:19.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/36634, l='ServerLevel[world]', x=-516.45, y=40.21, z=80.53] died: Gearling froze to death
