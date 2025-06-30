@@ -1240,5 +1240,11 @@
     },
     "done": true
   },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_fuel_tank": "2025-06-30 00:35:47 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

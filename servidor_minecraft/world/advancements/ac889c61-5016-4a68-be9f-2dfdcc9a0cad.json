@@ -1042,18 +1042,6 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-06-29 23:34:46 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-06-29 23:37:42 +0000"
-    },
-    "done": true
-  },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "minecraft:fortress": "2025-06-29 23:34:36 +0000"
@@ -1063,6 +1051,18 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-06-29 23:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-29 23:34:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-06-29 23:37:42 +0000"
     },
     "done": true
   },

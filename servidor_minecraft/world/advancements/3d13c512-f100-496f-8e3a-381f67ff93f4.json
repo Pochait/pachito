@@ -1114,15 +1114,39 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-06-28 03:16:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:ritual_brazier": {
     "criteria": {
       "has_ritual_brazier": "2025-06-28 03:28:00 +0000"
     },
     "done": true
   },
-  "tconstruct:smeltery/structure": {
+  "born_in_chaos_v1:naughty_child": {
     "criteria": {
-      "open_smeltery": "2025-06-28 03:16:45 +0000"
+      "naughty_child_0": "2025-06-30 00:33:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-06-30 00:33:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "silky": "2025-06-30 00:22:48 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-30 00:10:27 +0000"
     },
     "done": true
   },
